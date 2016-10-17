@@ -10,8 +10,8 @@ If you want to help other Galaxy users and sites find papers that are relevant t
 
 *Update: Thanks to the efforts of [Stephen Turner at the University of Virginia](http://twitter.com/genetics_blog), the [Galaxy CiteULike group](http://www.citeulike.org/group/16008/order/group_rating) is now [mirrored on Mendeley](/CiteULike/#and-mendeley-too).*
 
-[Dave Clements](/DaveClements)
+[Dave Clements](/src/DaveClements/index.md)
 
-<div class='newsItemFooter'>Posted to the [Galaxy News](/News) on <<Date(2011-12-14T18:50:11Z)>>, updated 2011-12-15 </div>
+<div class='newsItemFooter'>Posted to the [Galaxy News](/src/News/index.md) on <<Date(2011-12-14T18:50:11Z)>>, updated 2011-12-15 </div>
 
 CategoryNews

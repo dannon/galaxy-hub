@@ -1,7 +1,7 @@
 ---
 date: 2015-01-13T15:01:44Z
 ---
-<div class='newsItemHeader'>[January 13, 2015 Galaxy Distribution](/News/2015_01_13_Galaxy_Distribution)</div>
+<div class='newsItemHeader'>[January 13, 2015 Galaxy Distribution](/src/News/2015_01_13_Galaxy_Distribution/index.md)</div>
 <div class='right'><a href='http://getgalaxy.org'><img src='/Images/Logos/GetGalaxyOrg.png' alt='width=175' /></a></div>
 **[Complete News Brief](http://wiki.galaxyproject.org/DevNewsBriefs/2015_01_13)**
 <br />
@@ -44,7 +44,7 @@ In Galaxy's development branch, the basic tool from has been [redesigned and mod
 
 <br /><br />
 *Thanks for using Galaxy!* <br />
-[The Galaxy Team](/GalaxyTeam)
+[The Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

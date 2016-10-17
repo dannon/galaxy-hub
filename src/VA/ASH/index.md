@@ -10,7 +10,7 @@ title: [Automated Selection of Hotspots (ASH) VM](http://bioinformatics.erasmusm
 
 
 <div class='dictbox'>
- Appliance:: **[Automated Selection of Hotspots (ASH)](/VA/ASH)**
+ Appliance:: **[Automated Selection of Hotspots (ASH)](/src/VA/ASH/index.md)**
  Technology:: **[VM](/VirtualAppliances#virtual-machine-images)**
  Domains:: **hotspot detection** 
  Description:: automated detection quantitative ranking of hotspots to support histopathologists in selecting the ‘hottest’ hotspot areas in adrenocortical carcinoma.

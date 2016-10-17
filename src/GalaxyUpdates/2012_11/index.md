@@ -8,7 +8,7 @@ title: November 2012 Galaxy Update
 
 <div class='left'><a href='/GalaxyUpdates'><img src='/Images/Logos/GalaxyUpdate200.png' alt='Galaxy Updates' width=150 /></a></div>
 
-Welcome to the November 2012 edition of *[Galaxy Update](/GalaxyUpdates)*, a monthly summary of what is going on in the Galaxy community.  Galaxy Updates complement the *[Galaxy Development News Briefs](/DevNewsBriefs)* which accompany new Galaxy releases and focus on Galaxy code updates.
+Welcome to the November 2012 edition of *[Galaxy Update](/GalaxyUpdates)*, a monthly summary of what is going on in the Galaxy community.  Galaxy Updates complement the *[Galaxy Development News Briefs](/src/DevNewsBriefs/index.md)* which accompany new Galaxy releases and focus on Galaxy code updates.
 
 <br />
 
@@ -71,7 +71,7 @@ These papers may be of interest to the Galaxy community:
 
 * "[Creating re-usable tools from scripts: The Galaxy Tool Factory](http://dx.doi.org/10.1093/bioinformatics/bts573)," [Ross Lazarus](/fubar), Antony Kaspi, Mark Ziemann, [The Galaxy Team](/GalaxyTeam), *[Bioinformatics](http://bioinformatics.oxfordjournals.org/)* (28 September 2012)
 
-These papers were among [44 papers added to the Galaxy CiteULike group](http://www.citeulike.org/group/16008/library) since the last [Galaxy Update](/GalaxyUpdates).  
+These papers were among [44 papers added to the Galaxy CiteULike group](http://www.citeulike.org/group/16008/library) since the last [Galaxy Update](/src/GalaxyUpdates/index.md).  
 
 **And, there are now 500 papers in the [Galaxy CiteULike Group](http://www.citeulike.org/group/16008/library).**
 
@@ -91,15 +91,15 @@ All open [galaxy-central bitbucket issues](https://bitbucket.org/galaxy/galaxy-c
 
 ## Who's Hiring
 
-<div class='right'>![Please Help!  Yes you!](/Images/Icons/PointingFinger.png)</div>
+<div class='right'>![Please Help!  Yes you!](/src/Images/Icons/PointingFinger.png)</div>
 The Galaxy is expanding!  Please help it grow.
 
 * [Computational Biologist](http://bit.ly/R2ZJoW) @ the [Harvard Stem Cell Institute's (HSCI)](http://www.hsci.harvard.edu/)[Center for Stem Cell Bioinformatics](http://www.hsci.harvard.edu/research/center-stem-cell-bioinformatics)
 * [Bioinformatician/Statistician opening](http://bit.ly/X7Hl30) at EMBL Heidelberg, Germany  
 * [offre CDD INRA Versailles](http://bit.ly/TKoV9h) - developpement chaine de traitements !RnaSeq sous Galaxy - France Genomique
-* The [Galaxy Project is hiring](/GalaxyIsHiring) post-docs @ Penn State and Emory
+* The [Galaxy Project is hiring](/src/GalaxyIsHiring/index.md) post-docs @ Penn State and Emory
 
-Got a Galaxy-related opening?  Send it to outreach@galaxyproject.org and we'll put it in the [Galaxy News feed](/News) and include it in next month's [update](/GalaxyUpdates).
+Got a Galaxy-related opening?  Send it to outreach@galaxyproject.org and we'll put it in the [Galaxy News feed](/News) and include it in next month's [update](/src/GalaxyUpdates/index.md).
 
 ## Upcoming Events and Deadlines
 

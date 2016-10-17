@@ -1,7 +1,7 @@
 ---
 date: 2014-04-09T05:44:52Z
 ---
-<div class='newsItemHeader'>[GAW2014 Conference Report](/News/GAW2014MeetingReport)</div>
+<div class='newsItemHeader'>[GAW2014 Conference Report](/src/News/GAW2014MeetingReport/index.md)</div>
 
 <div class='right'>
 <a href='/Events/GAW2014'><img src='/Images/Logos/GAW2014-200.png' alt='Galaxy Australasia Workshop 2014' width="150" /></a> <a href='http://csiro.au/'><img src='/Images/Logos/CSIROLogoBig.png' alt='CSIRO' width="75" /></a></div>

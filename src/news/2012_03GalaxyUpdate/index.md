@@ -1,11 +1,11 @@
 ---
 date: 2012-02-29T06:58:17Z
 ---
-<div class='newsItemHeader'>[March 2012 Galaxy Update](/News/2012_03GalaxyUpdate)</div>
+<div class='newsItemHeader'>[March 2012 Galaxy Update](/src/News/2012_03GalaxyUpdate/index.md)</div>
 
 <div class='right'><a href='/GalaxyUpdates/2012_03'><img src='/Images/Logos/GalaxyUpdate200.png' alt='March 2012 Galaxy Update' width=150 /></a></div>
 
-The [March 2012 Galaxy Update](/GalaxyUpdates/2012_03) is now available.  *[Galaxy Update](/GalaxyUpdates)* is a (mostly) monthly summary of what is going on in the Galaxy community.  *Galaxy Updates* complements the *[Galaxy Development News Briefs](/DevNewsBriefs)* which accompany new Galaxy releases and focus on Galaxy code updates.
+The [March 2012 Galaxy Update](/GalaxyUpdates/2012_03) is now available.  *[Galaxy Update](/GalaxyUpdates)* is a (mostly) monthly summary of what is going on in the Galaxy community.  *Galaxy Updates* complements the *[Galaxy Development News Briefs](/src/DevNewsBriefs/index.md)* which accompany new Galaxy releases and focus on Galaxy code updates.
 
 **Highlights:**
 
@@ -17,9 +17,9 @@ The [March 2012 Galaxy Update](/GalaxyUpdates/2012_03) is now available.  *[Gala
   * Training Day topics are set.
 * [Tool Shed Contributions](/GalaxyUpdates/2012_03#tool-shed-contributions)
  
-If you have anything you would like to see in the April *[Galaxy Update](/GalaxyUpdates)*, please let me know.
+If you have anything you would like to see in the April *[Galaxy Update](/src/GalaxyUpdates/index.md)*, please let me know.
 
-[Dave Clements](/DaveClements)
+[Dave Clements](/src/DaveClements/index.md)
 
 
 CategoryNews

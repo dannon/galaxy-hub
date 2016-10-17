@@ -1,11 +1,11 @@
 ---
 date: 2012-10-31T17:05:38Z
 ---
-<div class='newsItemHeader'>[November 2012 Galaxy Update](/News/2012_11GalaxyUpdate)</div>
+<div class='newsItemHeader'>[November 2012 Galaxy Update](/src/News/2012_11GalaxyUpdate/index.md)</div>
 
 <div class='right'><a href='/GalaxyUpdates/2012_11'><img src='/Images/Logos/GalaxyUpdate200.png' alt='November 2012 Galaxy Update' width=150 /></a></div>
 
-The [November 2012 Galaxy Update is now available](/GalaxyUpdates/2012_11). 
+The [November 2012 Galaxy Update is now available](/src/GalaxyUpdates/2012_11/index.md). 
 
 **Highlights:**
 
@@ -17,9 +17,9 @@ The [November 2012 Galaxy Update is now available](/GalaxyUpdates/2012_11).
 * [New Distributions](/GalaxyUpdates/2012_11#new-distributions)
 * [Other News](/GalaxyUpdates/2012_11#other-news)
 
-If you have anything you would like to see in the December *[Galaxy Update](/GalaxyUpdates)*, please let us know.
+If you have anything you would like to see in the December *[Galaxy Update](/src/GalaxyUpdates/index.md)*, please let us know.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

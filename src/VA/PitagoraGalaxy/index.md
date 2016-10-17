@@ -10,7 +10,7 @@ title: [Pitagora-Galaxy](http://www.pitagora-galaxy.org/)
 
 
 <div class='dictbox'>
- Appliance:: **[Pitagora-Galaxy](/VA/PitagoraGalaxy)**
+ Appliance:: **[Pitagora-Galaxy](/src/VA/PitagoraGalaxy/index.md)**
  Technology:: **[VM](/VirtualAppliances#virtual-machine-images), [AMI](/VirtualAppliances#cloud-images)**
  Domains:: **General Purpose** 
  Description:: Includes the tools and workflows that are described at [our wiki](http://wiki.pitagora-galaxy.org/wiki/index.php/Workflows).

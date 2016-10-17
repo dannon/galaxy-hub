@@ -10,7 +10,7 @@ title: [Immunoglobulin Galaxy VM](http://bioinformatics.erasmusmc.nl/wiki/index.
 
 
 <div class='dictbox'>
- Appliance:: **[Immunoglobulin Galaxy](/VA/ImmunoglobulinGalaxy)**
+ Appliance:: **[Immunoglobulin Galaxy](/src/VA/ImmunoglobulinGalaxy/index.md)**
  Technology:: **[VM](/VirtualAppliances#virtual-machine-images)**
  Domains:: **immunoglobulin** 
  Description:: a set of tools for easy detection and quantitation of immunoglobulin heavy chain alternative transcripts. 

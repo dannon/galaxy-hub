@@ -8,7 +8,7 @@ title: RNAcommender
 
 
 <div class='dictbox'>
- Appliance:: **[RNAcommender](/VA/RNAcommender)**
+ Appliance:: **[RNAcommender](/src/VA/RNAcommender/index.md)**
  Technology:: **[Docker](/VirtualAppliances#docker-containers)**
  Domains:: **RNA-protein interactions** 
  Description:: Genome-wide recommendation of RNA-protein interactions.

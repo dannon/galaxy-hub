@@ -1,7 +1,7 @@
 ---
 date: 2016-10-03T15:10:48Z
 ---
-<div class='newsItemHeader'>[October 2016 Galactic News](/News/2016_10GalaxyUpdate)</div>
+<div class='newsItemHeader'>[October 2016 Galactic News](/src/News/2016_10GalaxyUpdate/index.md)</div>
 
 <div class='right'>
 <div class='right'><a href='/GalaxyUpdates/2016_10'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='Galaxy News' width=120 /></a></div><br />
@@ -26,7 +26,7 @@ There are also [117 new publications](/GalaxyUpdates/2016_10#new-publications) (
 
 We hope to see you in Freiburg, Salt Lake, Melbourne, online, and around the world,
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

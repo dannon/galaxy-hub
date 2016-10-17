@@ -1,7 +1,7 @@
 ---
 date: 2014-08-29T11:43:55Z
 ---
-<div class='newsItemHeader'>[September 2014 Galaxy News](/News/2014_09GalaxyUpdate)</div>
+<div class='newsItemHeader'>[September 2014 Galaxy News](/src/News/2014_09GalaxyUpdate/index.md)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2014_09'><img src='/Images/Logos/GalaxyUpdate200.png' alt='Galaxy Updates' width=150 /></a>
@@ -9,7 +9,7 @@ date: 2014-08-29T11:43:55Z
 
 Hello all,
 
-A lot of cool stuff happened in the Galaxy in August, and even more cool stuff is coming: The [September Galaxy Newsletter](/GalaxyUpdates/2014_09) is out and here are some highlights:
+A lot of cool stuff happened in the Galaxy in August, and even more cool stuff is coming: The [September Galaxy Newsletter](/src/GalaxyUpdates/2014_09/index.md) is out and here are some highlights:
  
 * [Galaxy Events in Europe this Fall](/GalaxyUpdates/2014_09#galaxy-events-in-europe-fall-2014), *lots of 'em.*
 * [G3: The Great GigaScience and Galaxy Workshop](/GalaxyUpdates/2014_09#the-great-gigascience-and-galaxy-workshop) is happening Friday 19 September 2014 at The University of Melbourne.
@@ -25,7 +25,7 @@ And, as always, there are [new papers](/GalaxyUpdates/2014_09#new-papers), [new 
 
 Happy September,
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

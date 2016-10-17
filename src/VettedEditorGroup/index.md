@@ -9,7 +9,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Aneesha Acharya](/Aneesha Acharya)
 * [Ed Acker](/edacker)
 * [Neto Adhemar](/azneto)
-* [Enis Afgan](/EnisAfgan)
+* [Enis Afgan](/src/EnisAfgan/index.md)
 * [Dan Alford](/Dan Alford)
 * [Ali Alqahtani](/Ali Alqahtani)
 * [Jens Allmer](/jallmer)
@@ -45,7 +45,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 
 #### Ba-Bd
 
-* [Dannon Baker](/DannonBaker)
+* [Dannon Baker](/src/DannonBaker/index.md)
 * [Aladje Balde](/Aladje Balde)
 * [Lucie Baillon](/LucieBaillon)
 * [Atreyi Banerjee](/AtreyiBanerjee)
@@ -85,7 +85,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 ##### Bj-Bq
 * [Josh Black](/JoshBlack)
 * [Ann Black-Ziegelbein](/Ann Black-Ziegelbein)
-* [Dan Blankenberg](/Dan)
+* [Dan Blankenberg](/src/Dan/index.md)
 * [Paul Boddie](/PaulBoddie)
 * [Jessica Boehler](/JessicaBoehler)
 * [Sidney Bolden](/SidneyBolden)
@@ -95,15 +95,15 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Rohan Borkar](/rohan)
 * [Carlos Borroto](/CarlosBorroto)
 * [Alex Bossers](/Alex Bossers)
-* [Dave Bouvier](/DaveBouvier)
+* [Dave Bouvier](/src/DaveBouvier/index.md)
 * [Paul Bowyer](/paulbowyer)
 
 ##### Br-Bz
-* [Remi Branco](/RemiBranco)
+* [Remi Branco](/src/RemiBranco/index.md)
 * [David Brandt](/David Brandt)
 * [Bal Brankovics](/Balázs Brankovics)
 * [Adam Brenner](/AdamBrenner)
-* [Christian Brenninkmeijer](/ChristianBrenninkmeijer)
+* [Christian Brenninkmeijer](/src/ChristianBrenninkmeijer/index.md)
 * [Chris Bridson](/ChrisBridson)
 * [Chris Broberg](/ChrisBroberg)
 * [Jeff Brockman](/Jeff Brockman)
@@ -140,7 +140,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Manuel Castro](/ManuelCastro)
 * [Alessia Catozzi](/AlessiaCatozzi)
 * [Armand Cavé-Radet](/Armand Cavé-Radet)
-* [Martin Čech](/Marten)
+* [Martin Čech](/src/Marten/index.md)
 
 ##### Cha-Che
 
@@ -169,7 +169,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Milan Chheda](/MilanChheda)
 * [Rayan Chikhi](/rayan)
 * [Alistair Chilcott](/Alistair Chilcott)
-* [John Chilton](/JohnChilton)
+* [John Chilton](/src/JohnChilton/index.md)
 * [Ginam Cho](/GinamCho)
 * [Nikhil Chopra](/chopranik)
 * [Ratan Chopra](/RATAN CHOPRA)
@@ -179,7 +179,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Nivedita Chowdhury](/NiveditaChowdhury)
 * [Shimul Chowdhury](/ShimulChowdhury)
 * [Cynthia Clark](/CynthiaClark)
-* [Dave Clements](/DaveClements)
+* [Dave Clements](/src/DaveClements/index.md)
 * [Olivier Claude](/OlivierClaude)
 
 ##### Co
@@ -197,7 +197,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Kerry Cooper](/KerryCooper)
 * [Frederik Coppens](/Frederik Coppens)
 * [Maddalena Coppo](/MaddalenaCoppo)
-* [Nate Coraor](/nate)
+* [Nate Coraor](/src/nate/index.md)
 * [Elihu Cortes](/ElihuCortes)
 * [Frederico Costa](/FredericoCosta)
 * [Eleanor Cottam](/EleanorCottam)
@@ -207,7 +207,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Dustin Cram](/DustinCram)
 * [Emily Crane](/Emily Crane)
 * [Jeroen Crappe](/JeroenCrappe)
-* [Daniel Crespo](/dan)
+* [Daniel Crespo](/src/dan/index.md)
 * [Mark Crowe](/MarkCrowe)
 * [Michael Crusoe](/mcrusoe)
 * [Gianmauro Cuccuru](/GianmauroCuccuru)
@@ -273,14 +273,14 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Sekhar Duraisamy](/Sekhar Duraisamy)
 * [Bas Dutilh](/dutilh)
 * [Mick Dye](/Mick Dye)
-* [Matt Dyer](/MattDyer)
+* [Matt Dyer](/src/MattDyer/index.md)
 
 #### E
 
-* [Carl Eberhard](/CarlEberhard)
+* [Carl Eberhard](/src/CarlEberhard/index.md)
 * [James Eddy](/JamesEddy)
 * [Michel Edwar](/MichelEdwar)
-* [Greg Edwards](/GregEdwards)
+* [Greg Edwards](/src/GregEdwards/index.md)
 * [John Edwards](/JohnEdwards)
 * [Johannes Eichner](/JohannesEichner)
 * [Abdel Elkahloun](/Elkahloun abdel)
@@ -298,7 +298,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 
 * [Annum Faisal](/Annum)
 * [Luka Fajs](/LukaFajs)
-* [Hossein Fallahi](/hosseinfallahi)
+* [Hossein Fallahi](/src/hosseinfallahi/index.md)
 * [Itay Fayerverker](/ItayFayerverker)
 * [Alexander Favorov](/favorov)
 * [Giancarlo Feliciello](/Giancarlo Feliciello)
@@ -310,7 +310,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Harry Fischl](/HarryFischl)
 * [Giuseppe Fiume](/GiuseppeFiume)
 * [Ellis Fok](/ellisfok)
-* [Brian Foley](/BrianFoleyLANL)
+* [Brian Foley](/src/BrianFoleyLANL/index.md)
 * [David Foltz](/DavidFoltz)
 * [Christian Fougner](/ChristianFougner)
 * [Gary Fox](/garylfox)
@@ -328,7 +328,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Sean Gallaher](/SeanGallaher)
 * [Prasad Gandham](/prasadgandham)
 * [Khanjan Gandhi](/KhanjanGandhi)
-* [Carrie Ganote](/CarrieGanote)
+* [Carrie Ganote](/src/CarrieGanote/index.md)
 * [Alexander Garcia-Zea](/alexander)
 * [Rodrigo Garcia](/RodrigoGarcia)
 * [Aaron Gardner](/Aaron)
@@ -355,7 +355,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 
 ##### Go-Go
 
-* [Jeremy Goecks](/JeremyGoecks)
+* [Jeremy Goecks](/src/JeremyGoecks/index.md)
 * [Preethi Golconda](/PreethiGolconda)
 * [Ted Goldstein](/TedGoldstein)
 * [Ryan Golhar](/RyanGolhar)
@@ -379,11 +379,11 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Vladimir Gritsenko](/VladimirGritsenko)
 * [Maya Groner](/MayaGroner)
 * [Christian Schulze Gronover](/ChristianSchulzeGronover)
-* [Bjoern Gruening](/BjoernGruening)
+* [Bjoern Gruening](/src/BjoernGruening/index.md)
 * [Stefanie Grunwald](/Stefanie Grunwald)
 * [Dongqing Gu](/holly)
 * [Isabel Guerreiro](/isabelguerreiro)
-* [Sam Guerler](/guerler)
+* [Sam Guerler](/src/guerler/index.md)
 * [Mehmet Gültas](/mehmetgültas)
 * [Bing Guo](/BingGuo)
 * [Ankit Gupta](/Ankit Gupta)
@@ -414,7 +414,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Diego Herrera](/Diego Herrera)
 * [Daisy Hessenberger](/DaisyHessenberger)
 * [Naomi Heuer](/NaomiHeuer)
-* [Mo Heydarian](/MoHeydarian)
+* [Mo Heydarian](/src/MoHeydarian/index.md)
 
 #### Hi-Ht
 
@@ -429,7 +429,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Aniruddho Chokroborty Hoque](/aniruddhochokrobortyhoque)
 * [Adam Horn](/AdamHorn)
 * [Ron Horst](/RonHorst_UQ)
-* [Hans-Rudolf Hotz](/HansrudolfHotz)
+* [Hans-Rudolf Hotz](/src/HansrudolfHotz/index.md)
 * [Torsten Houwaart](/TorstenHouwaart)
 
 #### Hu-Hz
@@ -453,7 +453,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 
 #### J-Jn
 
-* [Jennifer Jackson](/JenniferJackson)
+* [Jennifer Jackson](/src/JenniferJackson/index.md)
 * [/Joachim Jacob](/Joachim Jacob)
 * [Joachim Jacob](/JoachimJacob)
 * [/Rohit Jadhav](/Rohit Jadhav)
@@ -510,7 +510,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 #### Kh-Ki
 
 * [Vadim Khaychuk](/Vadim Khaychuk)
-* [Radhika Khetani](/RadhikaKhetani)
+* [Radhika Khetani](/src/RadhikaKhetani/index.md)
 * [Hamid Khoja](/hamidkhoja)
 * [Kyusik Kim](/kyusikkim)
 * [Min-Sik Kim](/MinsikKim)
@@ -553,7 +553,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Sharbadeb Kundu](/SharbadebKundu)
 * [Cheng-Ju Kuo](/noturtle)
 * [Vlad Kustanovich](/VladKustanovich)
-* [Ryan Kuster](/RyanKuster)
+* [Ryan Kuster](/src/RyanKuster/index.md)
 * [Jenny Kuo](/jennykuo)
 * [ Vladimir Yurjevich Kuryshev](/vkuryshev) 
 * [Jaana Kuuskeri](/JaanaKuuskeri)
@@ -570,7 +570,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Brad Langhorst](/BradLanghorst)
 * [John Lapage](/JohnLapage)
 * [Jason Laramie](/JasonLaramie)
-* [Delphine Lariviere](/DelphineLariviere)
+* [Delphine Lariviere](/src/DelphineLariviere/index.md)
 * [Yaniv Lerenthal](/yanivlerenthal)
 * [Amanda Larracuente](/AmandaLarracuente)
 * [Charles Lawrie](/claw)
@@ -578,7 +578,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Lucinda Lawson](/Lucinda.Lawson)
 * [Fides Lay](/fideslay)
 * [Dejan Lazarevic](/dejan lazarevic)
-* [Ross Lazarus](/fubar)
+* [Ross Lazarus](/src/fubar/index.md)
 
 ##### Le-Lh
 
@@ -667,7 +667,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Ravi Madduri](/RaviMadduri)
 * [Chidambareswaren Mahadevan](/chidambareswaren mahadevan)
 * [Aekkapol Mahavihakanont](/AekkapolMahavihakanont)
-* [Ketan Maheshwari](/ketancmaheshwari)
+* [Ketan Maheshwari](/src/ketancmaheshwari/index.md)
 * [John Major](/john.major)
 * [Jessica Makofske](/JessicaMakofske)
 * [Shivani Malik](/shivani malik)
@@ -681,7 +681,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 #### Mao-Mc
 
 * [Seraya Maouche](/Seraya Maouche)
-* [Remi Marenco](/RemiMarenco)
+* [Remi Marenco](/src/RemiMarenco/index.md)
 * [Michael Marotta](/MichaelMarotta)
 * [Jose Martinez](/JoseMartinez)
 * [Fernanda Maruri](/FernandaMaruri)
@@ -760,7 +760,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Vincent Navratil](/navratil)
 * [Anuraj Nayarisseri](/Anuraj)
 * [Alex Neagu](/AlexNeagu)
-* [Anton Nekrutenko](/anton)
+* [Anton Nekrutenko](/src/anton/index.md)
 * [James Nelson](/JamesNelson)
 * [Nathan Nelson-Maney](/NathanNelsonManey)
 * [Ulrich Neuss](/UlrichNeuss)
@@ -816,7 +816,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Matt Pelletier](/MattPelletier)
 * [Xiaoxiao Peng](/pxxjuve)
 * [Mark Pepin](/Mark Pepin)
-* [Serrano Pereira](/swp)
+* [Serrano Pereira](/src/swp/index.md)
 * [Cristian Perez](/CristianPerez)
 * [Christel Petersen](/ChristelPetersen)
 * [Jessica Petersen](/JessicaPetersen)
@@ -850,7 +850,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 
 #### R-Rh
 
-* [Tori R](/ToriR)
+* [Tori R](/src/ToriR/index.md)
 * [Henry Raab](/HenryRaab)
 * [Xue-Qin RAN](/xqran)
 * [Utkarsh Raghuvanshi](/utkarsh raghuvanshi)
@@ -862,7 +862,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Thomas Randall](/Thomas Randall)
 * [Carlo Randise-Hinchliff](/carlohinchliff)
 * [/Noa Rappaport](/Noa Rappaport)
-* [Eric Rasche](/EricRasche)
+* [Eric Rasche](/src/EricRasche/index.md)
 * [Sebastian Raveendar](/Sebastian Raveendar)
 * [Adarsh Reddy](/AdarshReddy)
 * [Chethan Reddy](/ChethanReddy)
@@ -939,7 +939,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 
 * [Anna Seekatz](/Anna)
 * [Rebecca Seipelt-Thiemann](/RebeccaSeipeltThiemann)
-* [Nick Semenkovich](/NickSemenkovich)
+* [Nick Semenkovich](/src/NickSemenkovich/index.md)
 * [Arun Sethuraman](/arunsethuraman)
 * [Surya Setiyaputra](/SuryaSetiyaputra)
 * [Fernando Seixas](/FernandoSeixas)
@@ -956,7 +956,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Ido Shlomovich](/idoshlomovich)
 * [Dylan Short](/DylanShort)
 * [Brikha Shrestha](/Brikha Shrestha)
-* [Megan Shortridge](/MeganShortridge)
+* [Megan Shortridge](/src/MeganShortridge/index.md)
 * [Louise Shuey](/LouiseShuey)
 
 ##### Si
@@ -989,7 +989,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Redmond Smyth](/RedmondSmyth)
 * [Daniel Sobral](/DanielSobral)
 * [Ramakrishna Sompallae](/Ramakrishna)
-* [Nicola Soranzo](/NicolaSoranzo)
+* [Nicola Soranzo](/src/NicolaSoranzo/index.md)
 * [Daan Speth](/DaanSpeth)
 * [Ola Spjuth](/OlaSpjuth)
 * [/Kim Spradling](/Kim Spradling)
@@ -1038,7 +1038,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [David Tarazona](/David Tarazona)
 * [Manuel Tavares](/Manuel Tavares)
 * [Jack Taylor](/JackTaylor)
-* [James Taylor](/JamesTaylor)
+* [James Taylor](/src/JamesTaylor/index.md)
 * [Steve Taylor](/Steve Taylor)
 * [Sven Templer](/setempler)
 * [Maximilian Teutsch](/Maximilian Teutsch)
@@ -1054,12 +1054,12 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Timothy Tickle](/TimothyTickle)
 * [Emma Timmins-Schiffman](/emmatimminsschiffman)
 * [Libert Brice Tonfack](/LB Tonfack)
-* [Tomithy Too](/TomithyToo)
+* [Tomithy Too](/src/TomithyToo/index.md)
 * [Eric Tremblay](/Eric Tremblay)
 * [Keriann Tremblay](/KeriannTremblay)
 * [David Trudgian](/DavidTrudgian)
 * [Nitesh Turaga](/nturaga)
-* [Nitesh Turaga](/NiteshTuraga)
+* [Nitesh Turaga](/src/NiteshTuraga/index.md)
 * [Nik Tuzov](/NikTuzov)
 * [Oleksii Tymchenko](/OleksiiTymchenko)
 
@@ -1098,7 +1098,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [James Vincent](/JamesVincent)
 * [Kelly Vincent](/kpvincent@bx.psu.edu)
 * [Juan Vivar](/JuanVivar)
-* [Greg von Kuster](/greg_vonkuster)
+* [Greg von Kuster](/src/greg_vonkuster/index.md)
 * [Rutger Vos](/RutgerVos)
 * [Alexander Vowinkel](/AlexanderVowinkel)
 
@@ -1183,7 +1183,7 @@ List of wiki logins that have been vetted and no longer need to answer [TextChas
 * [Sebata Yu](/SebataYu)
 * [Tun Ping Yu](/Tun-Ping Yu)
 * [Jiaxing Yue](/JiaxingYue)
-* [Lilly Yuen](/LillyYuen)
+* [Lilly Yuen](/src/LillyYuen/index.md)
 
 #### Z
 

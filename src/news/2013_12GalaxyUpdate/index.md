@@ -1,11 +1,11 @@
 ---
 date: 2013-12-02T06:48:48Z
 ---
-<div class='newsItemHeader'>[December 2013 Galaxy Update](/News/2013_12GalaxyUpdate)</div>
+<div class='newsItemHeader'>[December 2013 Galaxy Update](/src/News/2013_12GalaxyUpdate/index.md)</div>
 
 <div class='right'><a href='/GalaxyUpdates/2013_11'><img src='/Images/Logos/GalaxyUpdate200.png' alt='December 2013 Galaxy Update' width=150 /></a></div>
 
-The [December 2013 Galaxy Update is out](/GalaxyUpdates/2013_12):
+The [December 2013 Galaxy Update is out](/src/GalaxyUpdates/2013_12/index.md):
 
 **Highlights:**
 * Three new [public Galaxy servers](/GalaxyUpdates/2013_12#50-public-servers), *bringing the total to over 50.* 
@@ -19,9 +19,9 @@ The [December 2013 Galaxy Update is out](/GalaxyUpdates/2013_12):
 * [Tool Shed contributions](/GalaxyUpdates/2013_12#toolshed-contributions) ([including a new ToolShed](/GalaxyUpdates/2013_12#new-public-toolsheds))
 * [Other News](/GalaxyUpdates/2013_12#other-news)
 
-If you have anything you would like to see in the next *[Galaxy Update](/GalaxyUpdates)*, please let us know.
+If you have anything you would like to see in the next *[Galaxy Update](/src/GalaxyUpdates/index.md)*, please let us know.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

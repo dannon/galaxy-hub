@@ -1,11 +1,11 @@
 ---
 date: 2012-06-01T17:14:17Z
 ---
-<div class='newsItemHeader'>[June 2012 Galaxy Update](/News/2012_06GalaxyUpdate)</div>
+<div class='newsItemHeader'>[June 2012 Galaxy Update](/src/News/2012_06GalaxyUpdate/index.md)</div>
 
 <div class='right'><a href='/GalaxyUpdates/2012_06'><img src='/Images/Logos/GalaxyUpdate200.png' alt='June 2012 Galaxy Update' width=150 /></a></div>
 
-The [June 2012 Galaxy Update](/GalaxyUpdates/2012_06) is now available.  *[Galaxy Update](/GalaxyUpdates)* is a (mostly) monthly summary of what is going on in the Galaxy community.  *Galaxy Updates* complement the *[Galaxy Development News Briefs](/DevNewsBriefs)* which accompany new Galaxy releases and focus on Galaxy code updates.
+The [June 2012 Galaxy Update](/GalaxyUpdates/2012_06) is now available.  *[Galaxy Update](/GalaxyUpdates)* is a (mostly) monthly summary of what is going on in the Galaxy community.  *Galaxy Updates* complement the *[Galaxy Development News Briefs](/src/DevNewsBriefs/index.md)* which accompany new Galaxy releases and focus on Galaxy code updates.
 
 **Highlights:**
 
@@ -20,9 +20,9 @@ The [June 2012 Galaxy Update](/GalaxyUpdates/2012_06) is now available.  *[Galax
 * [A new distribution was released last month](/GalaxyUpdates/2012_06#new-distribution)
 * [GalaxyCzars survey results are in](/GalaxyUpdates/2012_06#other-news)
 
-If you have anything you would like to see in the July *[Galaxy Update](/GalaxyUpdates)*, please let me know.
+If you have anything you would like to see in the July *[Galaxy Update](/src/GalaxyUpdates/index.md)*, please let me know.
 
-[Dave Clements](/DaveClements)
+[Dave Clements](/src/DaveClements/index.md)
 
 
 CategoryNews

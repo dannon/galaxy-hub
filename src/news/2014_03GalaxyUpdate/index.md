@@ -1,7 +1,7 @@
 ---
 date: 2014-02-28T20:38:22Z
 ---
-<div class='newsItemHeader'>[March 2014 Galaxy Update](/News/2014_03GalaxyUpdate)</div>
+<div class='newsItemHeader'>[March 2014 Galaxy Update](/src/News/2014_03GalaxyUpdate/index.md)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2014_03'><img src='/Images/Logos/GalaxyUpdate200.png' alt='March 2014 Galaxy Update' width=150 /></a>
@@ -10,7 +10,7 @@ date: 2014-02-28T20:38:22Z
 <a href='/GalaxyUpdates/2014_03#gcc2014-june-30---july-2-baltimore'><img src='/Images/Logos/GCC2014LogoWide200.png' alt='GCC2014 early registration and abstract submission are now open' width="150" /></a>
 </div>
 
-Find out [what's happening in the Galaxy](/GalaxyUpdates/2014_03).  Highlights from the [March 2014 Galaxy Update](/GalaxyUpdates/2014_03) include: 
+Find out [what's happening in the Galaxy](/src/GalaxyUpdates/2014_03/index.md).  Highlights from the [March 2014 Galaxy Update](/src/GalaxyUpdates/2014_03/index.md) include: 
 
 * [54 new papers](/GalaxyUpdates/2014_03#new-papers)
 * [Who's hiring](/GalaxyUpdates/2014_03#whos-hiring)
@@ -23,9 +23,9 @@ Find out [what's happening in the Galaxy](/GalaxyUpdates/2014_03).  Highlights f
 * [Tool Shed Contributions](/GalaxyUpdates/2014_03#toolshed-contributions) 
 * [Other News](/GalaxyUpdates/2014_03#other-news)
 
-If you have anything you would like to see in the next *[Galaxy Update](/GalaxyUpdates)*, please let us know.
+If you have anything you would like to see in the next *[Galaxy Update](/src/GalaxyUpdates/index.md)*, please let us know.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

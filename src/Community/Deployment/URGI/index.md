@@ -8,7 +8,7 @@ title: URGI
 
 
 <div class='deploymentbox'>
- Deployment:: **[URGI](/Community/Deployment/URGI)**
+ Deployment:: **[URGI](/src/Community/Deployment/URGI/index.md)**
  Domain:: Genomics
  Owners:: INRA
  Audience:: researchers at the institution, lab members
@@ -67,7 +67,7 @@ Instance deployed on virtual machine.
 
 ## Links
 
-* [Description of server](/PublicGalaxyServers#inra-urgi) in [list of publicly accessible Galaxy Servers](/PublicGalaxyServers)
-* [DevOps Ignition to reach Galaxy continuous integration](/Events/GCC2013/Abstracts/Talks#devops-ignition-to-reach-galaxy-continuous-integration) talk at [GCC2013](/Events/GCC2013)
+* [Description of server](/PublicGalaxyServers#inra-urgi) in [list of publicly accessible Galaxy Servers](/src/PublicGalaxyServers/index.md)
+* [DevOps Ignition to reach Galaxy continuous integration](/Events/GCC2013/Abstracts/Talks#devops-ignition-to-reach-galaxy-continuous-integration) talk at [GCC2013](/src/Events/GCC2013/index.md)
 
 CategoryDeployment

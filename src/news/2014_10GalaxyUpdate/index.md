@@ -1,13 +1,13 @@
 ---
 date: 2014-10-01T23:45:22Z
 ---
-<div class='newsItemHeader'>[October 2014 Galaxy Newsletter](/News/2014_10GalaxyUpdate)</div>
+<div class='newsItemHeader'>[October 2014 Galaxy Newsletter](/src/News/2014_10GalaxyUpdate/index.md)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2014_10'><img src='/Images/Logos/GalaxyUpdate200.png' alt='Galaxy Updates' width=150 /></a>
 </div>
 
-A lot is happening in in the Galaxy in October, and a lot of good stuff happened in September too.  Take a look at the [October 2014 Galaxy Newsletter](/GalaxyUpdates/2014_10) for the complete story, but here are some highlights:
+A lot is happening in in the Galaxy in October, and a lot of good stuff happened in September too.  Take a look at the [October 2014 Galaxy Newsletter](/src/GalaxyUpdates/2014_10/index.md) for the complete story, but here are some highlights:
 
 * **[Galaxy needs your input!](/GalaxyUpdates/2014_10#galaxy-needs-your-input)**  You may even get rewarded for your input ...
 * [IRC channel to be logged](/GalaxyUpdates/2014_10#irc-channel-policy-change), starting this month
@@ -21,7 +21,7 @@ A lot is happening in in the Galaxy in October, and a lot of good stuff happened
 
 Happy October!
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

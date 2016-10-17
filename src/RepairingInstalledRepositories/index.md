@@ -6,7 +6,7 @@ One of the features available for repositories installed into Galaxy is the abil
 
 This feature resets and reinstalls repositories or tool dependencies that resulted in installation or compilation errors as described in the [Handling repository installation errors](/ToolShed/InstallingRepositoriesToGalaxy#handling_repository_installation_errors) page as well as repositories or tool dependencies that have been uninstalled for some reason.
 
-To repair a repository, select the **Repair repository** option in the selected repository's **Repository Actions** pop-up menu within the browser.  You can also use the enhanced Galaxy API with a command like the following from the ~/scripts/api directory.  See [The tool shed API page](/ToolShedApi) for additional details.
+To repair a repository, select the **Repair repository** option in the selected repository's **Repository Actions** pop-up menu within the browser.  You can also use the enhanced Galaxy API with a command like the following from the ~/scripts/api directory.  See [The tool shed API page](/src/ToolShedApi/index.md) for additional details.
 
 ```
 python ./repair_tool_shed_repository.py --api <Galaxy admin API key> -l http://localhost:8763 --url http://localhost:9009/ -o test -r 1018e3cee313 --name chemicaltoolbox

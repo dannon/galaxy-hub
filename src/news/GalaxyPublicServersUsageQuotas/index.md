@@ -39,6 +39,6 @@ While [no quotas](/Main/#quotas) are currently implemented at the public Galaxy 
 
 If you find that you require additional resources, please consider alternative Galaxy options explained at [/Big Picture/Choices](/Big Picture/Choices).
 
-<div class='newsItemFooter'>Posted to the [Galaxy News](/News) on <<Date(2011-08-22T17:06:09Z)>></div>
+<div class='newsItemFooter'>Posted to the [Galaxy News](/src/News/index.md) on <<Date(2011-08-22T17:06:09Z)>></div>
 
 CategoryNews

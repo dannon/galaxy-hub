@@ -1,13 +1,13 @@
 ---
 date: 2016-02-02T01:11:46Z
 ---
-<div class='newsItemHeader'>[February 2016 Galactic News](/News/2016_02GalaxyUpdate)</div>
+<div class='newsItemHeader'>[February 2016 Galactic News](/src/News/2016_02GalaxyUpdate/index.md)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2016_01'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='It's a new year in the Galaxy!' width=150 /></a><br />
 </div>
 
-The **[February 2016 Galactic News](/GalaxyUpdates/2016_02)** is hot off the presses.  Here are some highlights:
+The **[February 2016 Galactic News](/src/GalaxyUpdates/2016_02/index.md)** is hot off the presses.  Here are some highlights:
 
 **[GCC2016](/GalaxyUpdates/2016_02#gcc2016) early registration and abstract submission are now open.**  
 * [Register early](/GalaxyUpdates/2016_02#gcc2016-early-registration-is-open) and save up to 40% off regular registration costs. Early bird prices start at less than $45 / day for post-docs and students.
@@ -31,7 +31,7 @@ The **[February 2016 Galactic News](/GalaxyUpdates/2016_02)** is hot off the pre
 
 Happy February!
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

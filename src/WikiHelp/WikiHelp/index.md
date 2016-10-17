@@ -42,7 +42,7 @@ Attachments include things like images, PDFs, and text files.
 Attachments are, well, *attached* to a specific page.  They can be referenced from any page, not just the one they are attached to.  We have two suggested places for attaching files:
 
 1. Attach them to the page that links to them.  
-1. Attach them to the appropriate [/Images](/Images) or [/Documents](/Documents) page.
+1. Attach them to the appropriate [/Images](/Images) or [/Documents](/src/Documents/index.md) page.
 
 The first approach is simpler, but doesn't lend itself to reuse.  The second approach takes more work, but encourages attachment reuse.       
 

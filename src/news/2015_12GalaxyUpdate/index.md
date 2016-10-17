@@ -1,13 +1,13 @@
 ---
 date: 2015-12-01T18:05:53Z
 ---
-<div class='newsItemHeader'>[December 2015 Galactic News](/News/2015_12GalaxyUpdate)</div>
+<div class='newsItemHeader'>[December 2015 Galactic News](/src/News/2015_12GalaxyUpdate/index.md)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2015_12'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='Galactic News! December 2015 Edition' width=150 /></a><br />
 </div>
 
-The **[December Galactic News](/GalaxyUpdates/2015_12)** is hot off the presses.
+The **[December Galactic News](/src/GalaxyUpdates/2015_12/index.md)** is hot off the presses.
 * [81 new publications, including 4 highlighted pubs](/GalaxyUpdates/2015_12#new-papers)
 * [Event News](/GalaxyUpdates/2015_12#events)
   * [Spanish Galaxy Community Meetup: 18 December, Barcelona](/GalaxyUpdates/2015_12#spanish-galaxy-community-meetup-18-december-barcelona)
@@ -20,7 +20,7 @@ The **[December Galactic News](/GalaxyUpdates/2015_12)** is hot off the presses.
 * [ToolShed Contributions in October and November](/GalaxyUpdates/2015_12#toolshed-contributions)
 * and [lots of other news too](/GalaxyUpdates/2015_12#other-news).
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

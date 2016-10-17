@@ -10,7 +10,7 @@ PLACEHOLDER_INCLUDE(/Events/GCC2013/BoF/LinkBox)
 
 <div class='left'><a href='/Events/GCC2013/BoF'><img src='/Images/Logos/GCC2013BoFLogo.png' alt='' width="160" /></a></div>
 
-This page describes the **Galaxy Professionals** [Birds of a Feather](/Events/GCC2013/BoF) meetup proposed for [GCC2013](/Events/GCC2013). 
+This page describes the **Galaxy Professionals** [Birds of a Feather](/Events/GCC2013/BoF) meetup proposed for [GCC2013](/src/Events/GCC2013/index.md). 
 
 ## Outcomes
 
@@ -51,7 +51,7 @@ If you are interested, please add your name below and/or send an email to [ross 
 * [Ross Lazarus](/RossLazarus)
 * Mo Heydarian
 * Srinivas Maddhi
-* [Daniel Blankenberg](/Dan)
+* [Daniel Blankenberg](/src/Dan/index.md)
 * Your name here..
 
 ## Questions?

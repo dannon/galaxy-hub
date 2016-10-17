@@ -1,13 +1,13 @@
 ---
 date: 2016-01-04T21:11:00Z
 ---
-<div class='newsItemHeader'>[January 2016 Galactic News](/News/2016_01GalaxyUpdate)</div>
+<div class='newsItemHeader'>[January 2016 Galactic News](/src/News/2016_01GalaxyUpdate/index.md)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2016_01'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='It's a new year in the Galaxy!' width=150 /></a><br />
 </div>
 
-The **[January 2016 Galactic News](/GalaxyUpdates/2016_01)** is hot off the presses.
+The **[January 2016 Galactic News](/src/GalaxyUpdates/2016_01/index.md)** is hot off the presses.
 * [51 new publications, including 6 highlighted pubs](/GalaxyUpdates/2016_01#new-papers)
 * [Event News](/GalaxyUpdates/2016_01#events)
   * **[GCC2016 registration rates and training schedule](/GalaxyUpdates/2016_01#gcc2016-website-is-online)**
@@ -24,7 +24,7 @@ The **[January 2016 Galactic News](/GalaxyUpdates/2016_01)** is hot off the pres
 * [ToolShed Contributions](/GalaxyUpdates/2016_01#toolshed-contributions) from December
 * and [some other news too](/GalaxyUpdates/2016_01#other-news).
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews

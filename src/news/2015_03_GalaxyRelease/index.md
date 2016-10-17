@@ -1,7 +1,7 @@
 ---
 date: 2015-03-16T19:12:21Z
 ---
-<div class='newsItemHeader'>[March 2015 Galaxy Release (v 15.03)](/News/2015_03_GalaxyRelease)</div>
+<div class='newsItemHeader'>[March 2015 Galaxy Release (v 15.03)](/src/News/2015_03_GalaxyRelease/index.md)</div>
 
 <div class='right'><a href='http://getgalaxy.org'><img src='/Images/Logos/GetGalaxyOrg.png' alt='width=175' /></a></div>
 
@@ -19,7 +19,7 @@ date: 2015-03-16T19:12:21Z
 
  **[Tool Redesign](/DevNewsBriefs/2015_03#tool_redesign)**
 
-  Much of Galaxy’s core tool set has been redesigned. Several contain new functionality. These tools are included in the [Tool Shed](http://usegalaxy.org/toolshed) and many are ready for use on Galaxy [/Main](/Main).
+  Much of Galaxy’s core tool set has been redesigned. Several contain new functionality. These tools are included in the [Tool Shed](http://usegalaxy.org/toolshed) and many are ready for use on Galaxy [/Main](/src/Main/index.md).
 
 <span style="font-size: larger;"> Get the Galaxy Release </span>
 <br />
@@ -52,7 +52,7 @@ date: 2015-03-16T19:12:21Z
 
 <br /><br />
 *Thanks for using Galaxy!* <br />
-[The Galaxy Team](/GalaxyTeam)
+[The Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 

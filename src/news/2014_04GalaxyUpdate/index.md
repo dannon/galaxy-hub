@@ -1,7 +1,7 @@
 ---
 date: 2014-03-31T16:39:09Z
 ---
-<div class='newsItemHeader'>[April 2014 Galaxy Update](/News/2014_04GalaxyUpdate)</div>
+<div class='newsItemHeader'>[April 2014 Galaxy Update](/src/News/2014_04GalaxyUpdate/index.md)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2014_04'><img src='/Images/Logos/GalaxyUpdate200.png' alt='April 2014 Galaxy Update' width=150 /></a>
@@ -23,9 +23,9 @@ However, the big news this month is [Upcoming Events](/GalaxyUpdates/2014_04#eve
 
 And as always, there are [new ToolShed contributions](/GalaxyUpdates/2014_04#toolshed-contributions) and [other news](/GalaxyUpdates/2014_04#other-news) as well.
 
-If you have anything you would like to see in the next *[Galaxy Update](/GalaxyUpdates)*, please let us know.
+If you have anything you would like to see in the next *[Galaxy Update](/src/GalaxyUpdates/index.md)*, please let us know.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](/src/GalaxyTeam/index.md)
 
 
 CategoryNews
