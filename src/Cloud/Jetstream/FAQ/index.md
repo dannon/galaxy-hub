@@ -3,7 +3,7 @@ autotoc: true
 title: Frequently Asked Questions for Galaxy on Jetstream
 ---
 
-See [/Learn/FAQ](/Learn/FAQ) for questions about using any Galaxy instance.  
+See [/Learn/FAQ](../../../Learn/FAQ) for questions about using any Galaxy instance.  
 
 PLACEHOLDER_INCLUDE(/Cloud/Jetstream/LinkBox)
 

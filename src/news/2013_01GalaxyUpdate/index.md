@@ -1,11 +1,11 @@
 ---
 date: 2013-01-02T19:10:33Z
 ---
-<div class='newsItemHeader'>[January 2013 Galaxy Update](/News/2013_01GalaxyUpdate)</div>
+<div class='newsItemHeader'>[January 2013 Galaxy Update](../../News/2013_01GalaxyUpdate)</div>
 
 <div class='right'><a href='/GalaxyUpdates/2013_01'><img src='/Images/Logos/GalaxyUpdate200.png' alt='January 2013 Galaxy Update' width=150 /></a></div>
 
-The [January 2013 Galaxy Update is now available](/GalaxyUpdates/2013_01). 
+The [January 2013 Galaxy Update is now available](../../GalaxyUpdates/2013_01). 
 
 **Highlights:**
 
@@ -18,9 +18,9 @@ The [January 2013 Galaxy Update is now available](/GalaxyUpdates/2013_01).
 * [Tool Shed Contributions](/GalaxyUpdates/2013_01#tool-shed-contributions)
 * [Other News](/GalaxyUpdates/2013_01#other-news)
 
-If you have anything you would like to see in the Febrarury *[Galaxy Update](/GalaxyUpdates)*, please let us know.
+If you have anything you would like to see in the Febrarury *[Galaxy Update](../../GalaxyUpdates)*, please let us know.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

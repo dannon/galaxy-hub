@@ -1,7 +1,7 @@
 ---
 date: 2014-04-30T05:42:04Z
 ---
-<div class='newsItemHeader'>[May 2014 Galaxy News](/News/2014_05GalaxyUpdate)</div>
+<div class='newsItemHeader'>[May 2014 Galaxy News](../../News/2014_05GalaxyUpdate)</div>
 
 <div class='left'>
 <a href='/GalaxyUpdates/2014_05'><img src='/Images/Logos/GalaxyUpdate200.png' alt='Galaxy Updates' width=150 /></a></div>
@@ -20,7 +20,7 @@ There's also a [Galaxy UK Tour](/GalaxyUpdates/2014_05#uk-may-2014-galaxy-tour) 
 
 As always, there are [new papers](/GalaxyUpdates/2014_05#new-papers) (47 of them, including four we highlighted), [new public Galaxy Servers](/GalaxyUpdates/2014_05#new-public-servers) ([Globus Genomics Proteomics](/GalaxyUpdates/2014_05#globus-genomics-proteomics) and [SunLab Galaxy](/GalaxyUpdates/2014_05#sunlab)), [new jobs](/GalaxyUpdates/2014_05#whos-hiring) (7 postings in 6 countries), [new tools in the project ToolShed](/GalaxyUpdates/2014_05#galaxy_project_toolshed_new_repositories) (um, *lots*), and a [new public ToolShed](/GalaxyUpdates/2014_05#new-public-tool-sheds) (at the [Dutch Techcentre for Life Sciences (DTL)](http://www.dtls.nl/dtl/).
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

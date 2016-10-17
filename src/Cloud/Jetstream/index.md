@@ -12,7 +12,7 @@ Want your own Galaxy server, for free? You can easily create Galaxy servers on t
 Please note that, due to some Jetstream restrictions, this is a standalone Galaxy server in the cloud - it is not a scalable virtual cluster managed by CloudMan. 
 
 ## How do I get access?
-You must be a US-based academic to access Jetstream cloud. Access is free but it is necessary to have an [XSEDE account](https://www.xsede.org/user-portal) (go to https://www.xsede.org/ to sign up) and have an active resource allocation. Getting the resource allocation is matter of writing a summary of your research and waiting for the application to get approved (typically one business day, but can take longer). Go to http://jetstream-cloud.org/allocations.php → *Submit and manage allocation requests* to get started; then choose *Startup* type allocation. See [this page](/Cloud/Jetstream/Allocation) for more details about the request allocation process.
+You must be a US-based academic to access Jetstream cloud. Access is free but it is necessary to have an [XSEDE account](https://www.xsede.org/user-portal) (go to https://www.xsede.org/ to sign up) and have an active resource allocation. Getting the resource allocation is matter of writing a summary of your research and waiting for the application to get approved (typically one business day, but can take longer). Go to http://jetstream-cloud.org/allocations.php → *Submit and manage allocation requests* to get started; then choose *Startup* type allocation. See [this page](Allocation) for more details about the request allocation process.
 
 ## How do I launch my own Galaxy server?
 After you have your XSEDE account and an active allocation:

@@ -1,7 +1,7 @@
 ---
 date: 2016-03-31T18:12:36Z
 ---
-<div class='newsItemHeader'>[Galactic News! April Edition](/News/2016_04GalaxyUpdate)</div>
+<div class='newsItemHeader'>[Galactic News! April Edition](../../News/2016_04GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2016_04'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='Galaxy News' width=150 /></a><br />
@@ -16,7 +16,7 @@ date: 2016-03-31T18:12:36Z
 <a href='/GalaxyUpdates/2016_04#automatic-testing-of-iuc-tools-with-conda'><img src='/Images/Logos/Conda_480.png' alt='Automatic Testing of IUC Tools with Conda' width="120" /></a>
 </div></div>
 
-The **[April Galaxy News](/GalaxyUpdates/2016_04)** brings more than the usual amount of *News of the Galaxy*.  
+The **[April Galaxy News](../../GalaxyUpdates/2016_04)** brings more than the usual amount of *News of the Galaxy*.  
 
 First, there are a plethora of events coming up around the world:
 
@@ -43,7 +43,7 @@ And some [other news](/GalaxyUpdates/2016_04#other-news) too.
 
 Happy April,
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

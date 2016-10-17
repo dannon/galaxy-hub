@@ -1,7 +1,7 @@
 ---
 date: 2015-10-01T05:31:10Z
 ---
-<div class='newsItemHeader'>[October 2015 Galactic News](/News/2015_10GalaxyUpdate)</div>
+<div class='newsItemHeader'>[October 2015 Galactic News](../../News/2015_10GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2015_10'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='Galactic News! October 2015 Edition' width=170 /></a><br /><br />
@@ -11,7 +11,7 @@ date: 2015-10-01T05:31:10Z
 <a href='/GalaxyUpdates/2015_10#new-public-galaxy-servers'><img src='/PublicGalaxyServers/ABiMSToolsLogos.png' alt='ABiMS Tools Galaxy Server' width="170" /></a>
 </div>
 
-The **[October Galactic News](/GalaxyUpdates/2015_10)** is hot off the presses.
+The **[October Galactic News](../../GalaxyUpdates/2015_10)** is hot off the presses.
 * [60 new publications, including 4 highlighted pubs](/GalaxyUpdates/2015_10#new-papers)
 * [Event News](/GalaxyUpdates/2015_10#events)
   * The [October GalaxyAdmins Meetup is coming](/GalaxyUpdates/2015_10#october-galaxyadmins-meetup)!
@@ -26,10 +26,10 @@ The **[October Galactic News](/GalaxyUpdates/2015_10)** is hot off the presses.
 * [New Releases](/GalaxyUpdates/2015_10#releases)
   * [July 2015 Galaxy Release (v 15.07)](/GalaxyUpdates/2015_10#july-2015-galaxy-release-v-1507) (Chronologically challenged?  Whatever do you mean?)
   * [Mid 2015 Galaxy CloudMan Release](/GalaxyUpdates/2015_10#mid-2015-galaxy-cloudman-release) (Nope, still don't know what you mean.)
-  * [Lots of Tool Shed contributions](/ToolShed/Contributions/2015_09).
+  * [Lots of Tool Shed contributions](../../ToolShed/Contributions/2015_09).
 * and [lots of other news too](/GalaxyUpdates/2015_10#other-news), [including a birthday](/GalaxyUpdates/2015_10#galaxy-turns-10) (OK, maybe we are chronologically challenged, but we're young!)
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

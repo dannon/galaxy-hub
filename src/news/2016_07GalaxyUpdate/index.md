@@ -1,7 +1,7 @@
 ---
 date: 2016-07-06T03:44:28Z
 ---
-<div class='newsItemHeader'>[July 2016 Galactic News](/News/2016_07GalaxyUpdate)</div>
+<div class='newsItemHeader'>[July 2016 Galactic News](../../News/2016_07GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2016_07#gcc2017-26-30-june-2017-montpellier-france'><img src='/Images/Logos/GCC2107.png' alt='GCC2017 Announced' width="200" /></a><br />
@@ -14,7 +14,7 @@ date: 2016-07-06T03:44:28Z
 <a href='/GalaxyUpdates/2016_07#galaxy-australasia-meeting-game-2017-3-9-february-melbourne'><img src='/Images/Logos/GAMeLogo200.png' alt='Galaxy Australasia Meeting (GAMe 2017)' width="140" /></a>
 </div>
 
-Some highlights from the **[July Galaxy News](/GalaxyUpdates/2016_07):**
+Some highlights from the **[July Galaxy News](../../GalaxyUpdates/2016_07):**
 
 * [GCC2016 is done!](/GalaxyUpdates/2016_07#gcc2016-is-done) and slides and posters are now online (and video and training materials are coming)
 * And there is plenty more happening:
@@ -33,7 +33,7 @@ Some highlights from the **[July Galaxy News](/GalaxyUpdates/2016_07):**
 
 Hope to [see you in Montpellier](/GalaxyUpdates/2016_07#gcc2017-26-30-june-2017-montpellier-france)!
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

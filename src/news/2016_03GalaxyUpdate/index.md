@@ -1,13 +1,13 @@
 ---
 date: 2016-03-01T01:29:19Z
 ---
-<div class='newsItemHeader'>[March 2016 Galactic News](/News/2016_03GalaxyUpdate)</div>
+<div class='newsItemHeader'>[March 2016 Galactic News](../../News/2016_03GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2016_03'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='March News' width=150 /></a><br />
 </div>
 
-The **[March 2016 Galactic News](/GalaxyUpdates/2016_03)** is hot off the presses:
+The **[March 2016 Galactic News](../../GalaxyUpdates/2016_03)** is hot off the presses:
 
 * **[GCC2016](/GalaxyUpdates/2016_03#gcc2016)** news:
   * **[Oral presentation abstracts due March 20](/GalaxyUpdates/2016_03#gcc2016-abstract-submission-deadlines).** If you are doing work in data-intensive biology then you are strongly encourage to present your work at the conference.  Oral presentations, poster presentations, and the new Visualization Showcase & Software Demos are all opportunities to share your work.
@@ -24,7 +24,7 @@ The **[March 2016 Galactic News](/GalaxyUpdates/2016_03)** is hot off the presse
 * [Three new Galaxy servers](/GalaxyUpdates/2016_03#new-public-galaxy-servers)
 * [New ToolShed Contributions](/GalaxyUpdates/2016_03#toolshed-contributions)
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

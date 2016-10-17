@@ -1,18 +1,18 @@
 ---
 autotoc: true
-title: Frequently Asked Questions about , [/Main](/Main)
+title: Frequently Asked Questions about , [/Main](..)
 ---
 PLACEHOLDER_INCLUDE(/FAQs/LinkBox)
 
 
  
-Questions specifically about Galaxy's [free public server](/Main).  See [/Learn/FAQ](/Learn/FAQ) for questions that apply to any Galaxy instance.
+Questions specifically about Galaxy's [free public server](/Main).  See [/Learn/FAQ](../../Learn/FAQ) for questions that apply to any Galaxy instance.
 
 
  
 ## How do I get support?
 
-All sorts of ways.  See [/Support](/Support).
+All sorts of ways.  See [/Support](../../Support).
 
 ## How do tools get on to Main?
 

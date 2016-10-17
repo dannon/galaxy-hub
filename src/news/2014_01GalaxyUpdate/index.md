@@ -1,7 +1,7 @@
 ---
 date: 2013-12-31T23:16:52Z
 ---
-<div class='newsItemHeader'>[January 2014 Galaxy Update](/News/2014_01GalaxyUpdate)</div>
+<div class='newsItemHeader'>[January 2014 Galaxy Update](../../News/2014_01GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2014_01'><img src='/Images/Logos/GalaxyUpdate200.png' alt='January 2014 Galaxy Update' width=150 /></a>
@@ -11,7 +11,7 @@ date: 2013-12-31T23:16:52Z
 <a href='/GalaxyUpdates/2014_01#galaxy-deployment-catalog'><img src='/Images/Logos/GalaxyDeploymentCatalog200.png' alt='Galaxy Deployment Catalog' width="150" /></a>
 </div>
 
-The [January 2014 Galaxy Update is out](/GalaxyUpdates/2014_01)!
+The [January 2014 Galaxy Update is out](../../GalaxyUpdates/2014_01)!
 
 * [Galactic Hubs!](/GalaxyUpdates/2014_01#galaxy-community-hubs)
   * [Galaxy Community Log Board](/GalaxyUpdates/2014_01#galaxy-community-log-board): Share your Galaxy experience
@@ -29,11 +29,11 @@ The [January 2014 Galaxy Update is out](/GalaxyUpdates/2014_01)!
 * [Tool Shed Contributions](/GalaxyUpdates/2014_01#toolshed-contributions) 
 * [Other News](/GalaxyUpdates/2014_01#other-news)
 
-If you have anything you would like to see in the next *[Galaxy Update](/GalaxyUpdates)*, please let us know.
+If you have anything you would like to see in the next *[Galaxy Update](../../GalaxyUpdates)*, please let us know.
 
 Best wishes to you and yours for a happy and spectacular 2014,
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

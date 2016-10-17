@@ -1,13 +1,13 @@
 ---
 date: 2015-03-02T16:23:57Z
 ---
-<div class='newsItemHeader'>[The March 2015 Galaxy News](/News/2015_03GalaxyUpdate)</div>
+<div class='newsItemHeader'>[The March 2015 Galaxy News](../../News/2015_03GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2015_03'><img src='/Images/Logos/GalaxyUpdate200.png' alt='The March 2015 News' width=150 /></a><br /><br />
 </div>
 
-As always, it's [a busy time in the Galaxy](/GalaxyUpdates/2015_03).   The [March 2015 Galaxy News](/GalaxyUpdates/2015_03) is out, and it's chock full of information.  Here are some of the highlights.
+As always, it's [a busy time in the Galaxy](../../GalaxyUpdates/2015_03).   The [March 2015 Galaxy News](../../GalaxyUpdates/2015_03) is out, and it's chock full of information.  Here are some of the highlights.
 
 **[UseGalaxy.org Update](/GalaxyUpdates/2015_03#usegalaxyorg-update):**
 
@@ -38,7 +38,7 @@ Finally, registration is *not* open yet, but [the list of registration packages 
 
 And there is no shortage of other upcoming events either, including [RNA-Seq and ChIP-Seq Analysis with Galaxy, UC Davis, March 23-26](/GalaxyUpdates/2015_03#rna-seq-and-chip-seq-analysis-with-galaxy-uc-davis-march-23-26), and [at least 12 other events in the next 2 months](/GalaxyUpdates/2015_03#other-events).
 
-**[Lots of other news](/GalaxyUpdates/2015_03)**
+**[Lots of other news](../../GalaxyUpdates/2015_03)**
 
 In addition, there is news on:
 * [82 new publications](/GalaxyUpdates/2015_03#new-papers), including 7 highlighted ones
@@ -51,7 +51,7 @@ In addition, there is news on:
 * **[Galaxy on GitHub!](/GalaxyUpdates/2015_03#galaxy-github)** Come and join us in developing Galaxy!
 * And, [other news](/GalaxyUpdates/2015_03#other-news) as well.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

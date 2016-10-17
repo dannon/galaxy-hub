@@ -1,4 +1,4 @@
-Lists data libraries available on [/Main](/Main).
+Lists data libraries available on [/Main](..).
 
 * [Available Data](Available Data)
 * [Genome Data](Genome Data)

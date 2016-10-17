@@ -10,7 +10,7 @@ title: [RNA Galaxy Workbench](https://github.com/bgruening/galaxy-rna-workbench-
 
 
 <div class='dictbox'>
- Appliance:: **[RNA Galaxy Workbench](/VA/RNAGalaxyWorkbench)**
+ Appliance:: **[RNA Galaxy Workbench](.)**
  Technology:: **[Docker](/VirtualAppliances#docker-containers)**
  Domains:: **RNA-Seq** 
  Description:: [A Docker based RNA-Seq workbench](https://github.com/bgruening/galaxy-rna-workbench-extra/blob/master/README.md)

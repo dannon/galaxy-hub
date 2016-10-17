@@ -1,14 +1,14 @@
 ---
 date: 2015-05-31T22:37:20Z
 ---
-<div class='newsItemHeader'>[June 2015 Galactic News](/News/2015_06GalaxyUpdate)</div>
+<div class='newsItemHeader'>[June 2015 Galactic News](../../News/2015_06GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2015_06'><img src='/Images/Logos/GalaxyUpdate200.png' alt='Galactic News! June 2015 Edition' width=150 /></a><br /><br />
 <a href='/GalaxyUpdates/2015_06#gcc2015-4-8-july-norwich-uk'><img src='/Images/Logos/GCC2015LogoWide600.png' alt='GCC2015' width="150" /></a><br />
 </div>
 
-The **[June Galactic News](/GalaxyUpdates/2015_06)** brings this *news of the Galaxy:*
+The **[June Galactic News](../../GalaxyUpdates/2015_06)** brings this *news of the Galaxy:*
 
 * **[GCC2015 News](/GalaxyUpdates/2015_06#gcc2015-4-8-july-norwich-uk)**
   * **[Register Now](/GalaxyUpdates/2015_06#registration-is-open)!**
@@ -24,7 +24,7 @@ The **[June Galactic News](/GalaxyUpdates/2015_06)** brings this *news of the Ga
 
 And, [other news](/GalaxyUpdates/2015_06#other-news) as well.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

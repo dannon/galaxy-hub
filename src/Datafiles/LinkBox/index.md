@@ -1,4 +1,4 @@
 <div class='linkbox'>
-[/Images](/Images)<br />
-[/Datafiles](/Datafiles)<br />
+[/Images](../../Images)<br />
+[/Datafiles](..)<br />
 </div>

@@ -6,7 +6,7 @@ PLACEHOLDER_INCLUDE(/Events/GCC2015/Header)
 
 
 <div class='dictbox'>
- BoF:: [Galaxy Training Network](/Events/GCC2015/BoFs/GalaxyTrainingNetwork)
+ BoF:: [Galaxy Training Network](../../../../Events/GCC2015/BoFs/GalaxyTrainingNetwork)
  Summary:: A BoF for people who want to teach the use of Galaxy or use Galaxy as a bioinformatics training tool. Let's get together and talk about resource requirements, available learning material etc..
  Audience:: Anyone interested in using Galaxy for bioinformatics and related learning and teaching. People who need to support such activities. 
  When:: Monday, 6 July, 18:50
@@ -20,7 +20,7 @@ PLACEHOLDER_INCLUDE(/Events/GCC2015/Header)
 
 The **[Galaxy Training Network (GTN)](/Teach/GTN)** will have an in-person [Birds of a Feather](/Events/GCC2015/BoFs) meetup at the [2015 Galaxy Community Conference (GCC2015)](http://gcc2015.tsl.ac.uk/), held in Norwich, UK, 4-8 July, 2015.
 
-GTN was unofficially launched at a [GCC2014 BoF meetup](/Events/GCC2014/BoFs/GalaxyTrainingNetwork) (and [officially launched in October](/News/GalaxyTrainingNetwork)).  GTN is a network of trainers who teach bioinformatics using Galaxy, or teach about Galaxy itself.  GTN makes it easy to find [Galaxy trainers](/Teach/Trainers), and to share and discover the wealth of training resources available for Galaxy.  This includes [training materials](/Teach/Resources), a [trainer directory](/Teach/Trainers),[best practices](/Teach/BestPractices), and [guidance on computing platforms](/Teach/ComputingPlatforms) for teaching with Galaxy.  The Galaxy Training Network is accessible to the entire community.  
+GTN was unofficially launched at a [GCC2014 BoF meetup](/Events/GCC2014/BoFs/GalaxyTrainingNetwork) (and [officially launched in October](/News/GalaxyTrainingNetwork)).  GTN is a network of trainers who teach bioinformatics using Galaxy, or teach about Galaxy itself.  GTN makes it easy to find [Galaxy trainers](/Teach/Trainers), and to share and discover the wealth of training resources available for Galaxy.  This includes [training materials](/Teach/Resources), a [trainer directory](/Teach/Trainers),[best practices](/Teach/BestPractices), and [guidance on computing platforms](../../../../Teach/ComputingPlatforms) for teaching with Galaxy.  The Galaxy Training Network is accessible to the entire community.  
 
 If you teach with Galaxy, then please consider joining us at this BoF.
 
@@ -28,7 +28,7 @@ If you teach with Galaxy, then please consider joining us at this BoF.
 
 We'll talk about 
 
-* Progress since [GCC2014](/Events/GCC2014/BoFs/GalaxyTrainingNetwork)
+* Progress since [GCC2014](../../../../Events/GCC2014/BoFs/GalaxyTrainingNetwork)
 * What should GTN emphasise moving forward?
 * What ever issues participants want to cover.
 
@@ -44,10 +44,10 @@ This BoF will be held **Monday, 6 July, 18:50, in the Franklin Room.**
 
 ## Participants
 
-* [Dave Clements](/DaveClements), organiser
+* [Dave Clements](../../../../DaveClements), organiser
 * [Andrew Lonie](https://www.vlsci.org.au/researcher/alonie), organiser
-* [Eric Rasche](/EricRasche)
-* [Hans-Rudolf Hotz](/HansrudolfHotz)
+* [Eric Rasche](../../../../EricRasche)
+* [Hans-Rudolf Hotz](../../../../HansrudolfHotz)
 * Mark Fernandes
 * Catriona !McInerney
 * Annette !McGrath
@@ -60,7 +60,7 @@ This BoF will be held **Monday, 6 July, 18:50, in the Franklin Room.**
 * Agata Smialowska
 * Jochen Bick
 * Brad Langhorst
-* [Björn Grüning](/BjoernGruening)
+* [Björn Grüning](../../../../BjoernGruening)
 * Daniel Sobral
 * Simon Gladman
 * Clare Sloggett

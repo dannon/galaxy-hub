@@ -1,11 +1,11 @@
 
 <div class='right'><a href='/JenniferJackson'><img src='/jenhjackson.png' alt='Jen Jackson' width="200",height="150" /></a><br />
-[Jennifer Hillman Jackson](/JenniferJackson)<br />
+[Jennifer Hillman Jackson](.)<br />
 [Penn State](http://www.bx.psu.edu)</div>
 
 # Jennifer Hillman-Jackson
 
-[Galaxy Team](/GalaxyTeam), Application Science
+[Galaxy Team](../GalaxyTeam), Application Science
 <br />
 
 [Nekrutenko Lab](http://nekrut.bx.psu.edu/), Penn State University, PA, US

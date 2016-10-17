@@ -13,7 +13,7 @@ A reference genome contains the nucleotide sequence of the chromosomes, scaffold
 
 In [Galaxy](http://usegalaxy.org), a ** *custom* reference genome** is a [FASTA](/Learn/Datatypes#fasta) formatted [dataset](/Learn#datasets) that can be used in place of a ** *native* reference genome** with most tools. 
 * **custom**: a dataset *from the history* loaded by users
-* **native**: *local* or *cached* by administrators (see [/Admin/DataPreparation](/Admin/DataPreparation))
+* **native**: *local* or *cached* by administrators (see [/Admin/DataPreparation](../../Admin/DataPreparation))
 
 # Overview
 There are **three basic steps** to using a *Custom Reference Genome*:

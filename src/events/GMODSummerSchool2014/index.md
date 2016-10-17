@@ -334,7 +334,7 @@ Of course, you can change this later to suit your lab or your needs.
 #### The tool_dependency_dir
 The final change we'll make before we log in is to uncomment and add a tool dependency directory in the
 `universe_wsgi.ini` file. This is a directory that will store the programs that Galaxy tools rely on to function as
-we'll see later in [/Tools](/Tools):
+we'll see later in [/Tools](../../Tools):
 ```ini
 tool_dependency_dir = ../tool_dependencies
 ```
@@ -576,7 +576,7 @@ Galaxy tools are not (generally) bioinformatics programs themselves but XML file
 command-line-only program. Among other things, the tool wrapper file defines a form interface for the tools possible
 parameters with help and explanation.
 
-See also: [Adding Tools from a Tool Shed](/Admin/Tools/AddToolFromToolShedTutorial)
+See also: [Adding Tools from a Tool Shed](../../Admin/Tools/AddToolFromToolShedTutorial)
 
 Programs and their dependencies will be installed to the directory setting `tool_dependency_dir` in your
 `universe_wsgi.ini` file (which we set [here](#the-tool_dependency_dir)). They can also be invoked on the command line
@@ -596,7 +596,7 @@ created from there.
 [Galaxy main tool shed](http://toolshed.g2.bx.psu.edu/)
 [Galaxy test tool shed](http://testtoolshed.g2.bx.psu.edu/)
 [Public tool sheds](/PublicGalaxyServers#public_toolsheds)
-See also the comprehensive documentation on Tool Sheds here: [ToolShed](/ToolShed);
+See also the comprehensive documentation on Tool Sheds here: [ToolShed](../../ToolShed);
 
 
 #### Installing a tool from a Tool Shed
@@ -650,7 +650,7 @@ Let's check that it was installed and is now available:
 3. You should see a link with the text: 'FastQC:Read QC reports using FastQC' - that indicates the tools is installed
   and ready to try.
 
-Again, see also: [Adding Tools from a Tool Shed](/Admin/Tools/AddToolFromToolShedTutorial)
+Again, see also: [Adding Tools from a Tool Shed](../../Admin/Tools/AddToolFromToolShedTutorial)
 
 
 <br />
@@ -709,7 +709,7 @@ running, finished, errored) is shown as the 'state' of a dataset in the current 
 * error: red
 
 For more information on histories see:
-[Managing Datasets](/Learn/ManagingDatasets)
+[Managing Datasets](../../Learn/ManagingDatasets)
 and:
 [Managing Histories Screencast Video](http://vimeo.com/76020876)
 
@@ -783,7 +783,7 @@ repeat over many subjects.
 #### Manually creating and editing workflows
 One way to create a workflow manually using the Workflow editor. See the following wiki pages for more information on
 that:
-* [Creating Workflows and Advanced Workflow Options](/Learn/AdvancedWorkflow)
+* [Creating Workflows and Advanced Workflow Options](../../Learn/AdvancedWorkflow)
 * [Create a Workflow from Scratch Screencast](http://screencast.g2.bx.psu.edu/flash/WorkflowFromScratch.html)
 
 
@@ -854,7 +854,7 @@ pages created and edited from within Galaxy). See how in the
 * Almost every tool available from the Galaxy Tool Sheds or already installed on your server can be used in a workflow.
 * It's possible to run and automate workflows via the command line or scripts using Galaxy's API.
 
-Again, see [Creating Workflows and Advanced Workflow Options](/Learn/AdvancedWorkflow) for more information.
+Again, see [Creating Workflows and Advanced Workflow Options](../../Learn/AdvancedWorkflow) for more information.
 
 
 #### Testing our QC workflow
@@ -906,5 +906,5 @@ The following are great places to start when trouble shooting or planning an exp
 
 
 ### Advanced Configuration for Production Scale Galaxy Servers
-1. [Running Galaxy in a production environment](/Admin/Config/Performance/ProductionServer)
-2. Nate Coraor's excellent page for the BioIT workshop on [Running a Local Galaxy Instance](/Events/BioITWorld2014/W14)
+1. [Running Galaxy in a production environment](../../Admin/Config/Performance/ProductionServer)
+2. Nate Coraor's excellent page for the BioIT workshop on [Running a Local Galaxy Instance](../../Events/BioITWorld2014/W14)

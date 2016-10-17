@@ -1,6 +1,6 @@
 # Chromosome Identifiers
 
-Return to [/Support](/Support)
+Return to [/Support](../../Support)
 
 ## Reference Genome Contents
 

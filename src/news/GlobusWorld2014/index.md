@@ -1,7 +1,7 @@
 ---
 date: 2014-03-28T17:21:28Z
 ---
-<div class='newsItemHeader'>[GlobusWorld 2014](/News/GlobusWorld2014)</div>
+<div class='newsItemHeader'>[GlobusWorld 2014](../../News/GlobusWorld2014)</div>
 
 <div class='right'><a href='http://www.globusworld.org/'><img src='/Images/Logos/GlobusGenomics.png' alt='Globus World 2014' width="180" /></a></div>
 

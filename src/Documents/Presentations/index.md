@@ -1,6 +1,6 @@
 PLACEHOLDER_INCLUDE(/Documents/LinkBox)
 
-Common place to attach presentations in the [/Documents](/Documents) hierarchy.
+Common place to attach presentations in the [/Documents](..) hierarchy.
 
 Also see these subdirectories for specific events:
 

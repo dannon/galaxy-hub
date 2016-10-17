@@ -3,7 +3,7 @@ title: Log Entries for 2016
 ---
 
 
-List of [Community Log](/Community/Logs) entries created in 2016.
+List of [Community Log](../../Logs) entries created in 2016.
 
 
 

@@ -10,7 +10,7 @@ title: Galaxy Events Archive
 
 
 <div class='deploymentbox'>
- Resource:: **[Galaxy Events Archive](/Teach/Resource/GalaxyEventArchive)**
+ Resource:: **[Galaxy Events Archive](.)**
  Types:: Slides, Posters
  Domains:: **Everything** 
  Owners:: Galaxy Community
@@ -24,6 +24,6 @@ The [Galaxy Events Archive](/Events#past_events) lists all known past presentati
 ## Links
 
 * [Galaxy Events Archive for current year](/Events#past_events)
-* [Galaxy Events Archive for previous years](/Events/Archive)
+* [Galaxy Events Archive for previous years](../../../Events/Archive)
 
 CategoryTrainingResource

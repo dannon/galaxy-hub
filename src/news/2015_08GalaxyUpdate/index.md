@@ -1,13 +1,13 @@
 ---
 date: 2015-07-31T07:35:33Z
 ---
-<div class='newsItemHeader'>[August 2015 Galactic News](/News/2015_08GalaxyUpdate)</div>
+<div class='newsItemHeader'>[August 2015 Galactic News](../../News/2015_08GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2015_08'><img src='/Images/Logos/GalaxyUpdate200.png' alt='Galactic News! August 2015 Edition' width=150 /></a>
 </div>
 
-The **[August Galactic News](/GalaxyUpdates/2015_08)** is out.  It's been a busy two months for the community.  The *News* includes items on:
+The **[August Galactic News](../../GalaxyUpdates/2015_08)** is out.  It's been a busy two months for the community.  The *News* includes items on:
 * [Events](/GalaxyUpdates/2015_08#events):
   * **[A report on the 2015 Galaxy Community Conference](/GalaxyUpdates/2015_08#gcc2015-report)**
   * **[Details on the 2016 Galaxy Community Conference](/GalaxyUpdates/2015_08#gcc2016-june-25-29-2016-bloomington-indiana-united-states)**
@@ -23,10 +23,10 @@ The **[August Galactic News](/GalaxyUpdates/2015_08)** is out.  It's been a busy
   * [Community Committers!](/GalaxyUpdates/2015_08#community-committers)
   * [3 new Community Log Board entries, and 2 new teaching resources](/GalaxyUpdates/2015_08#galaxy-community-hubs)
   * [New Releases](/GalaxyUpdates/2015_08#releases) of [BioBlend](/GalaxyUpdates/2015_08#bioblend-060-and-061) and  [Planemo](/GalaxyUpdates/2015_08#planemo-0130-through-0132)
-  * [76 Tool Shed updates and additions from 20+ contributors](/ToolShed/Contributions/2015_07)
+  * [76 Tool Shed updates and additions from 20+ contributors](../../ToolShed/Contributions/2015_07)
   * And, of course [other news](/GalaxyUpdates/2015_08#other-news) as well.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 <br />
 <div class='center'>

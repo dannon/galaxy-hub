@@ -1,5 +1,5 @@
 ---
-title: [GalaxyAdmins](/Community/GalaxyAdmins),  BoF
+title: [GalaxyAdmins](../../../../Community/GalaxyAdmins),  BoF
 ---
 PLACEHOLDER_INCLUDE(/Events/GCC2013/Header)
 
@@ -12,13 +12,13 @@ PLACEHOLDER_INCLUDE(/Community/GalaxyAdmins/LinkBox)
 <div class='left'><a href='/Events/GCC2013/BoF'><img src='/Images/Logos/GCC2013BoFLogo.png' alt='' width="160" /></a><br />
 <a href='/Community/GalaxyAdmins'><img src='/Images/Logos/GalaxyAdmins.png' alt='GalaxyAdmins' width="160" /></a></div>
 
-This page describes the **[GalaxyAdmins](/Community/GalaxyAdmins)** [Birds of a Feather](/Events/GCC2013/BoF) meetup being held at [GCC2013](/Events/GCC2013).
+This page describes the **[GalaxyAdmins](/Community/GalaxyAdmins)** [Birds of a Feather](/Events/GCC2013/BoF) meetup being held at [GCC2013](../../../../Events/GCC2013).
 
-[GalaxyAdmins](/Community/GalaxyAdmins) is a group of people that are responsible for administering large Galaxy instances.  We [meet online every other month](/Community/GalaxyAdmins/Meetups) and at events like GCC2013, where a lot of us happen to be.
+[GalaxyAdmins](/Community/GalaxyAdmins) is a group of people that are responsible for administering large Galaxy instances.  We [meet online every other month](../../../../Community/GalaxyAdmins/Meetups) and at events like GCC2013, where a lot of us happen to be.
 
 GCC2013 coincides with the one year anniversary of GalaxyAdmins starting up and this is a good time to discuss the [future direction of the group](/Community/GalaxyAdmins/Future).  *This discussion has started in advance of GCC2013 as [this email thread](http://dev.list.galaxyproject.org/GalaxyAdmins-Group-Future-Directions-td4659133.html).* 
 
-We plan to continue, and perhaps finish, that discussion at GCC2013, at this BoF session.  That discussion and what we decide will be posted on the [GalaxyAdmins Future page](/Community/GalaxyAdmins/Future).  However, the current talking points are:
+We plan to continue, and perhaps finish, that discussion at GCC2013, at this BoF session.  That discussion and what we decide will be posted on the [GalaxyAdmins Future page](../../../../Community/GalaxyAdmins/Future).  However, the current talking points are:
 
 * [Goal and Activities](/Community/GalaxyAdmins/Future#galaxyadmins-goals-and-activities)
 * [Leadership](/Community/GalaxyAdmins/Future#leadership) 
@@ -38,9 +38,9 @@ The [tentative time and location](/Events/GCC2013/BoF#bof-schedule) is Tuesday l
 
 If you are interested, please add your name below and/or send an email to [clements AT galaxyproject DOT org](Dave Clements).  There were about 21 people present, including:
 
-* [Dave Clements](/DaveClements)
+* [Dave Clements](../../../../DaveClements)
 * Shaun Webb
-* [Hans-Rudolf Hotz](/HansrudolfHotz)
+* [Hans-Rudolf Hotz](../../../../HansrudolfHotz)
 * Peter Li
 * [Christian Andreetta](http://www.computing.uni.no/staff?nickname=christiana)
 * Srinivas Maddhi
@@ -62,7 +62,7 @@ If you are interested, please add your name below and/or send an email to [cleme
 **Reference / Wiki**
 * Want a knowledge base with different descriptions of Galaxy Deployments
 * Possibly have an Admin/Logs section where people can describe what they did
-* Add a list of Admin Tutorials to [/Admin](/Admin) and [Cloud](/CloudMan) Hub pages, similar to what is on the [/Learn](/Learn) hub page.
+* Add a list of Admin Tutorials to [/Admin](/Admin) and [Cloud](/CloudMan) Hub pages, similar to what is on the [/Learn](../../../../Learn) hub page.
 
 **Mailing Lists / Forums**
 
@@ -97,13 +97,13 @@ If you still want this functionality, you are encouraged to configure your email
 
 ### Action Items
 
-**The first [GalaxyAdmins Meetup](/Community/GalaxyAdmins/Meetups/2013_11_20) after the GCC was about followup to this discussion.**
+**The first [GalaxyAdmins Meetup](../../../../Community/GalaxyAdmins/Meetups/2013_11_20) after the GCC was about followup to this discussion.**
 
 
 Reference / Wiki
 * Dave C will set up an "installation description" template that enables people to provide a basic description of their installation.  This is not a database, but it would build a searchable list of deployments
 * Dave C will create a section of the wiki for admins to log what they did during installs.
-* Dave C will add a list of Admin Tutorials to [/Admin](/Admin) and [Cloud](/CloudMan) Hub pages, similar to what is on the [/Learn](/Learn) hub page.
+* Dave C will add a list of Admin Tutorials to [/Admin](/Admin) and [Cloud](/CloudMan) Hub pages, similar to what is on the [/Learn](../../../../Learn) hub page.
 
 Mailing Lists / Forums
 

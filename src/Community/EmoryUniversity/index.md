@@ -6,7 +6,7 @@ The [Taylor Lab](http://bx.mathcs.emory.edu/) at [Emory University](http://emory
 
 ## Lab Members Working on Galaxy
 
-See [Galaxy Team](/GalaxyTeam).
+See [Galaxy Team](../../GalaxyTeam).
 
 ## Links
 * [Taylor Lab home page](http://bx.mathcs.emory.edu/)

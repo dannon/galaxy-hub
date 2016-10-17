@@ -1,7 +1,7 @@
 ---
 date: 2015-04-27T06:47:23Z
 ---
-<div class='newsItemHeader'>[GCC2015 Registration is Open!](/News/GCC2015RegistrationOpen)</div>
+<div class='newsItemHeader'>[GCC2015 Registration is Open!](../../News/GCC2015RegistrationOpen)</div>
 
 <div class='right'><a href='http://gcc2015.tsl.ac.uk/registration/'><img src='/Images/Logos/GCC2015LogoWide600.png' alt='GCC2015 Registration is open' width="220" /></a></div>
 

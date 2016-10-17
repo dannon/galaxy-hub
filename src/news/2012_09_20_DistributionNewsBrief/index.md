@@ -1,9 +1,9 @@
 ---
 date: 2012-09-21T00:23:35Z
 ---
-<div class='newsItemHeader'>[Sept 20, 2012 Distribution & News Brief](/News/2012_09_20_DistributionNewsBrief)</div>
+<div class='newsItemHeader'>[Sept 20, 2012 Distribution & News Brief](../../News/2012_09_20_DistributionNewsBrief)</div>
 
-**Complete [News Brief](/DevNewsBriefs/2012_09_20)**
+**Complete [News Brief](../../DevNewsBriefs/2012_09_20)**
 <div class='right'><a href='/DevNewsBriefs/2012_09_20'><img src='/Images/NewsGraphics/2012_09_20_toolfactory-small.png' alt='toolfactory' /></a></div>
 **Highlights:**
 * A new **[Galaxy tool](/DevNewsBriefs/2012_09_20#galaxy_tool_factory)** that writes other new Galaxy tools? The **[Tool Factory](http://www.youtube.com/watch?v=Nzzc9zHZJjE)** is in the *[Galaxy's Main Tool Shed](http://toolshed.g2.bx.psu.edu/)* (**toolfactory**). Try it **now** ->

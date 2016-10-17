@@ -39,17 +39,17 @@ And there is now an updated [Galaxy](http://galaxyproject.org) article on Wikipe
 #### Revised and New Content
 
 * *Learn*: A hub page for resources on learning how to use Galaxy.
-  * [/Learn](/Learn)
+  * [/Learn](../../Learn)
 * *News Page and RSS Feed*: News items of interest to the Galaxy community
-  * [/News](/News)
+  * [/News](../../News)
 * *Events*: Comprehensive listing of upcoming (and past) Galaxy Events
-  * [/Events](/Events)
+  * [/Events](../../Events)
 * *Get Involved and Outreach*: How to get involved with Galaxy and how to spread the word.
-  * [/GetInvolved](/GetInvolved)
-  * [/Outreach](/Outreach)
+  * [/GetInvolved](../../GetInvolved)
+  * [/Outreach](../../Outreach)
 * *Public Galaxy Servers*: A list of publicly available Galaxy servers.
     If you have one, please add it to the list.
-      [/PublicGalaxyServers](/PublicGalaxyServers)
+      [/PublicGalaxyServers](../../PublicGalaxyServers)
 
 
 
@@ -82,7 +82,7 @@ And there is now an updated [Galaxy](http://galaxyproject.org) article on Wikipe
 * *AWS Genomics Event*
   * [http://aws.amazon.com/genomicsevent](http://aws.amazon.com/genomicsevent)
   * September 22, Seattle, Washington, United States
-  * *Developing distributed analysis pipelines with shared community resources using [CloudBioLinux](http://www.cloudbiolinux.org) and [/CloudMan](/CloudMan),* Brad Chapman 
+  * *Developing distributed analysis pipelines with shared community resources using [CloudBioLinux](http://www.cloudbiolinux.org) and [/CloudMan](../../CloudMan),* Brad Chapman 
 
 ## Updated & Improved
 
@@ -163,7 +163,7 @@ And there is now an updated [Galaxy](http://galaxyproject.org) article on Wikipe
 * While no *hard* quotas are currently implemented at the public Galaxy [Main](http://usegalaxy.org) instance, we do ask that users stay within certain usage limits:
     [Main Quotas](http://galaxyproject.org/wiki/Main#Quotas)
 * If you find that you require additional resources, please consider the alternative Galaxy options explained at:
-    [/BigPicture/Choices](/BigPicture/Choices)
+    [/BigPicture/Choices](../../BigPicture/Choices)
 
 ### Bug Fixes
 * Make message stating how much disk space improved in Galaxy reports, fixes [#618 ](http://bitbucket.org/galaxy/galaxy-central/issue/618 )

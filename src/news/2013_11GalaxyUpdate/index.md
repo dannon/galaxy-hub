@@ -1,11 +1,11 @@
 ---
 date: 2013-10-31T17:09:26Z
 ---
-<div class='newsItemHeader'>[November 2013 Galaxy Update](/News/2013_11GalaxyUpdate)</div>
+<div class='newsItemHeader'>[November 2013 Galaxy Update](../../News/2013_11GalaxyUpdate)</div>
 
 <div class='right'><a href='/GalaxyUpdates/2013_11'><img src='/Images/Logos/GalaxyUpdate200.png' alt='November 2013 Galaxy Update' width=150 /></a></div>
 
-The [November 2013 Galaxy Update is out](/GalaxyUpdates/2013_11):
+The [November 2013 Galaxy Update is out](../../GalaxyUpdates/2013_11):
 
 **Highlights:**
 * Two new [Galaxy public servers](/GalaxyUpdates/2013_11#new-public-servers): [CoSSci: Complex Social Science Gateway](/GalaxyUpdates/2013_11#cossci-complex-social-science-gateway) (which has *nothing* to do with biology), and [BioCiphers Lab Galaxy](/GalaxyUpdates/2013_11#biociphers-lab-galaxy).
@@ -18,9 +18,9 @@ The [November 2013 Galaxy Update is out](/GalaxyUpdates/2013_11):
 * [Lifeportal launched at the University of Oslo](/GalaxyUpdates/2013_11#lifeportal-at-the-university-of-oslo)
 * [Tool Shed contributions](/GalaxyUpdates/2013_11#tool-shed-contributions)
 
-If you have anything you would like to see in the next *[Galaxy Update](/GalaxyUpdates)*, please let us know.
+If you have anything you would like to see in the next *[Galaxy Update](../../GalaxyUpdates)*, please let us know.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

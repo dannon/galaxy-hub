@@ -29,7 +29,7 @@ Migration scripts will run upon Galaxy's first launch (after updating to this re
 
 <br />
 # Reference Genome rsync Server
-If you would like to obtain the same *reference genome builds and indexes* as available on the public **Galaxy [/Main](/Main)** instance, these can retrieved from the rsync server at:
+If you would like to obtain the same *reference genome builds and indexes* as available on the public **Galaxy [/Main](../../Main)** instance, these can retrieved from the rsync server at:
 ```
 datacache.g2.bx.psu.edu
 ```
@@ -58,7 +58,7 @@ As reported in the *[July 20th, 2012 News Brief](/DevNewsBriefs/2012_07_20)*, se
     * One benefit is that **BAM** results can be used as input to **[Cufflinks](http://cufflinks.cbcb.umd.edu/)** without an [intermediate sorting step](http://main.g2.bx.psu.edu/u/jeremy/p/transcriptome-analysis-faq#faq2).
     * *NOTE:* If you are using an older version of *Bowtie* or uploading your own results, sorting is still required before running *Cufflinks*, whether in [SAM](/Learn/Datatypes#sam) or [BAM](/Learn/Datatypes#bam) format.
 * *New*
-  * **[Galaxy RNA-seq Analysis Exercise](http://main.g2.bx.psu.edu/u/jeremy/p/galaxy-rna-seq-analysis-exercise)** on [/Main](/Main)
+  * **[Galaxy RNA-seq Analysis Exercise](http://main.g2.bx.psu.edu/u/jeremy/p/galaxy-rna-seq-analysis-exercise)** on [/Main](../../Main)
     * Walks through sample protocol step-by-step using paired-end data, initial read QC through **[CuffDiff](http://cufflinks.cbcb.umd.edu/)** analysis
     * Includes **[iGenomes](http://tophat.cbcb.umd.edu/igenomes.html)** sourced **[reference annotation GTF](http://tophat.cbcb.umd.edu/igenomes.html)**, an answer key, and bonus resources 
 
@@ -73,7 +73,7 @@ As reported in the *[July 20th, 2012 News Brief](/DevNewsBriefs/2012_07_20)*, se
 
 <br />
 # Galaxy Track Browser (GTB)
-[Trackster](/Learn/Visualization)
+[Trackster](../../Learn/Visualization)
 * *New*
   * Rewrite sampling code for **[bigWig](http://genome.ucsc.edu/goldenPath/help/bigWig.html)** / **[bigBed](http://genome.ucsc.edu/goldenPath/help/bigBed.html)**
 * *Enhancements*
@@ -182,7 +182,7 @@ Now the above entry still works, but the following entry is also ok (notice the 
 
 <br />
 # Announcements
-[/News](/News), *[August](/GalaxyUpdates/2012_09)* and *[September](/GalaxyUpdates/2012_09)* *2012 Galaxy Updates*
+[/News](/News), *[August](../../GalaxyUpdates/2012_09)* and *[September](../../GalaxyUpdates/2012_09)* *2012 Galaxy Updates*
 
 <div class='right'><a href='/GalaxyUpdates/2012_09'><img src='/Images/Logos/GalaxyUpdate200.png' alt='September 2012 Galaxy Update' width=150 /></a></div>
 
@@ -201,7 +201,7 @@ Now the above entry still works, but the following entry is also ok (notice the 
 ## Swiss Galaxy Day
 <div class='right'><a href='/Events/Switzerland2012'><img src='/Images/Logos/2012SwissGalaxyWorkshop-400.png' alt='Swiss Galaxy Day' height="100" /></a></div>
 
-The 1<sup>st</sup> [Swiss Galaxy Workshop](/Events/Switzerland2012) will be held October 3-4 in Bern, and is aimed at Galaxy administrators and users alike. We also welcome participants who are using other workflow management systems, and tool developers who are looking for such systems to offer their tools to a wider audience. 
+The 1<sup>st</sup> [Swiss Galaxy Workshop](../../Events/Switzerland2012) will be held October 3-4 in Bern, and is aimed at Galaxy administrators and users alike. We also welcome participants who are using other workflow management systems, and tool developers who are looking for such systems to offer their tools to a wider audience. 
  
 We would like to discuss the status of the Galaxy project, new developments, interface to other systems, extensions and best practice in reproducible research. 
  
@@ -209,12 +209,12 @@ The workshop is part of the SyBIT Tech Day series.
 
 <br />
 ## Who's Hiring
-<div class='right'>![Please Help!  Yes you!](/Images/Icons/PointingFinger.png)</div>
+<div class='right'>![Please Help!  Yes you!](../../Images/Icons/PointingFinger.png)</div>
 The Galaxy is expanding!  Please help it grow.
-* The [Galaxy Project is hiring](/GalaxyIsHiring) post-docs @ Penn State and Emory
+* The [Galaxy Project is hiring](../../GalaxyIsHiring) post-docs @ Penn State and Emory
 * [Bioinformatics & Integrative Genomics Specialist - Manager Bioinformatics Consulting Core](http://www.nature.com/naturejobs/science/jobs/275747-Bioinformatics-Integrative-Genomics-Specialist-Manager-Bioinformatics-Consulting-Core) @ Leuven, Belgium
 * [Internship @ EMBL Heidelberg building an emBASE-Galaxy Bridge](http://www.sfbi.fr/content/development-embase-galaxy-bridge)
-Got a Galaxy-related opening?  Send it to outreach@galaxyproject.org and we'll put it in the [Galaxy News feed](/News) and include it the next [Galaxy Update](/GalaxyUpdates) and [News Brief](/DevNewsBriefs).
+Got a Galaxy-related opening?  Send it to outreach@galaxyproject.org and we'll put it in the [Galaxy News feed](/News) and include it the next [Galaxy Update](/GalaxyUpdates) and [News Brief](..).
 <br />
 <br />
 ---

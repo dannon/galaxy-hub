@@ -10,10 +10,10 @@ title: Name of Deployment
 
 
 <div class='deploymentbox'>
- Deployment:: **[SymD](/Community/Deployment/SymD)**
+ Deployment:: **[SymD](.)**
  Domain:: For detecting internally symmetric protein structures
  Owners:: [US National Cancer Institute (NCI)](http://nci.nih.gov/)
- Audience:: [Publicly accessible](/PublicGalaxyServers)  
+ Audience:: [Publicly accessible](../../../PublicGalaxyServers)  
  User Base:: Unknown
  Server Topology:: Virtualized
  Compute:: a VMware vSphere virtualized Ubuntu 12 server

@@ -3,7 +3,7 @@ date: 2012-01-20T15:21:31Z
 ---
 <div class='newsItemHeader'>[January 20, 2012 Distribution & News Brief](/News/Jan 2012 Distribution News Brief)</div>
 
-**Complete [News Brief](/DevNewsBriefs/2012_01_20)**
+**Complete [News Brief](../../../DevNewsBriefs/2012_01_20)**
 
 **Highlights:**
 
@@ -22,7 +22,7 @@ upgrade: % hg pull -u -r 63bc46cc73b7
 
 **Thanks for using Galaxy!**
 
-[Jennifer Jackson](/JenniferJackson)
+[Jennifer Jackson](../../../JenniferJackson)
 
 [/Galaxy Team](/Galaxy Team)
 

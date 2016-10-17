@@ -10,8 +10,8 @@ Slides for for 10 of the Galaxy-related presentations at [ISMB/ECCB/BOSC 2011](/
  
 plus many more.
 
-[Dave Clements](/DaveClements)
+[Dave Clements](../../DaveClements)
 
-<div class='newsItemFooter'>Posted to the [Galaxy News](/News) on <<Date(2011-07-29T16:50:07Z)>></div>
+<div class='newsItemFooter'>Posted to the [Galaxy News](../../News) on <<Date(2011-07-29T16:50:07Z)>></div>
 
 CategoryNews

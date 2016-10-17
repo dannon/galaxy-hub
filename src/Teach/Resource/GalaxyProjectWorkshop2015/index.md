@@ -9,10 +9,10 @@ title:  Galaxy Project Workshop 2015
 
 **[http://galaxyproject.org](http://galaxyproject.org)**
 
-1. Galaxy [/Main](/Main)
-1. Ways to use Galaxy explained in [Choices](/BigPicture/Choices)
+1. Galaxy [/Main](../../../Main)
+1. Ways to use Galaxy explained in [Choices](../../../BigPicture/Choices)
 1. [Tool Shed Wiki](/ToolShed) and Main Tool Shed at [http://usegalaxy.org/toolshed](http://usegalaxy.org/toolshed)
-1. More resources at [/Learn](/Learn), [/Support](/Support), [/Teach](/Teach), and [Galaxy Biostars](https://biostar.usegalaxy.org/) (linked access: [/Support/Biostar](/Support/Biostar))
+1. More resources at [/Learn](/Learn), [/Support](/Support), [/Teach](/Teach), and [Galaxy Biostars](https://biostar.usegalaxy.org/) (linked access: [/Support/Biostar](../../../Support/Biostar))
 
 
 # Basic Analysis with Galaxy
@@ -199,7 +199,7 @@ Completed History [https://usegalaxy.org/u/usinggalaxy2/h/gvl-rna-seq-dm3-compar
 
 Polish Workflows in the editor by including annotation and variables. Learn how to customize tool panel display and tune parameters within the editor. 
 
-Wikis: [/Learn/AdvancedWorkflow](/Learn/AdvancedWorkflow) and [/Learn/AdvancedWorkflow/Extract](/Learn/AdvancedWorkflow/Extract) and [/Learn/AdvancedWorkflow/BasicEditing](/Learn/AdvancedWorkflow/BasicEditing)
+Wikis: [/Learn/AdvancedWorkflow](/Learn/AdvancedWorkflow) and [/Learn/AdvancedWorkflow/Extract](/Learn/AdvancedWorkflow/Extract) and [/Learn/AdvancedWorkflow/BasicEditing](../../../Learn/AdvancedWorkflow/BasicEditing)
 
 ## Protocol
 
@@ -218,7 +218,7 @@ Starting History [https://usegalaxy.org/u/usinggalaxy2/h/workflow0](https://useg
 
 ## Navigating Datasets and Histories
 
-Wikis: [/Histories](/Histories) and [/Learn/ManagingDatasets](/Learn/ManagingDatasets)
+Wikis: [/Histories](/Histories) and [/Learn/ManagingDatasets](../../../Learn/ManagingDatasets)
 
 1. History menu *Copy History* (use *RNA-seq Novel*)
   1. click on link to new copy
@@ -436,7 +436,7 @@ BONUS as time allows
 
 ## Custom Genomes
  
-Wikis: [/Support#custom_reference_genome](/Support#custom_reference_genome) and [/Learn/CustomGenomes](/Learn/CustomGenomes)
+Wikis: [/Support#custom_reference_genome](/Support#custom_reference_genome) and [/Learn/CustomGenomes](../../../Learn/CustomGenomes)
 
 1. History menu *Saved Histories*
 1. History menu *Copy Dataset* 
@@ -457,7 +457,7 @@ Wikis: [/Support#custom_reference_genome](/Support#custom_reference_genome) and 
 
 **Thanks for using Galaxy!**
 <br /><br />
-*The [Galaxy Team](/GalaxyTeam)*
+*The [Galaxy Team](../../../GalaxyTeam)*
 
 <br /><br />
 END

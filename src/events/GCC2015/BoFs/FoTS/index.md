@@ -7,12 +7,12 @@ PLACEHOLDER_INCLUDE(/Events/GCC2015/Header)
 
 
 <div class='dictbox'>
- BoF:: [Friends of the Tool Shed](/Events/GCC2015/BoFs/FoTS)
+ BoF:: [Friends of the Tool Shed](../../../../Events/GCC2015/BoFs/FoTS)
  Summary:: Discuss utilities distribution approaches available to Galaxy and praise the Shed
  Audience:: Tool developers and Shed enthusiasts
  When:: Tuesday, 7 July, 20:30
  Where:: we meet at the http://thecellarhouse.co.uk/
- Contact:: [Martin Cech](/Marten)
+ Contact:: [Martin Cech](../../../../Marten)
 </div>
 
 <div class='left'><a href='/Events/GCC2015/BoFs'><img src='/Images/Logos/GCC2015BoFs300.png' alt='GCC2015 BoFs!' width="160" /></a></div>
@@ -25,7 +25,7 @@ Tools, dependencies, workflows, datatypes, visualizations, pages, histories, ana
 
 ## Audience
 
-All are welcome, even [John](/JohnChilton)
+All are welcome, even [John](../../../../JohnChilton)
 
 ## When and Where
 
@@ -34,20 +34,20 @@ All are welcome, even [John](/JohnChilton)
 
 ## Who is Participating
 
-If you are interested, please add your name below and/or send an email to [Martin Cech](/Marten).
+If you are interested, please add your name below and/or send an email to [Martin Cech](../../../../Marten).
 
-* [Martin Cech](/Marten)
+* [Martin Cech](../../../../Marten)
 * Eric Rasche
 * John Chilton
 * Peter Cock
 * Bjoern Gruening
-* [Nate Coraor](/nate)
-* [Daniel Blankenberg](/Dan)
-* [Nicola Soranzo](/NicolaSoranzo)
+* [Nate Coraor](../../../../nate)
+* [Daniel Blankenberg](../../../../Dan)
+* [Nicola Soranzo](../../../../NicolaSoranzo)
 * Next Name
 
 ## Questions?
 
-Send them to [Martin Cech](/Marten).
+Send them to [Martin Cech](../../../../Marten).
 
 CategoryBoF

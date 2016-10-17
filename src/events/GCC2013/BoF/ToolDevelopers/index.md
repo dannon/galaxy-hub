@@ -10,7 +10,7 @@ PLACEHOLDER_INCLUDE(/Events/GCC2013/BoF/LinkBox)
 
 <div class='left'><a href='/Events/GCC2013/BoF'><img src='/Images/Logos/GCC2013BoFLogo.png' alt='' width="160" /></a></div>
 
-This page describes the **Tool Developers** [Birds of a Feather](/Events/GCC2013/BoF) meetup being held at [GCC2013](/Events/GCC2013).
+This page describes the **Tool Developers** [Birds of a Feather](/Events/GCC2013/BoF) meetup being held at [GCC2013](../../../../Events/GCC2013).
 
 The aim is for tool developers to discuss the process of developing tools for galaxy. 
 
@@ -33,9 +33,9 @@ If you are interested, please add your name below and/or send an email to the [g
 * [bjoern.gruening AT pharmazie DOT uni-freiburg DOT de](Björn Grüning)
 * [jj AT umn DOT edu](JJ Johnson)
 * Peter Cock
-* [Greg Von Kuster](/greg_vonkuster)
-* [Dave Bouvier](/DaveBouvier)
-* [Dan Blankenberg](/Dan)
+* [Greg Von Kuster](../../../../greg_vonkuster)
+* [Dave Bouvier](../../../../DaveBouvier)
+* [Dan Blankenberg](../../../../Dan)
 * [Christian Andreetta](http://www.computing.uni.no/staff?nickname=christiana)
 * Lionel Guy, Uppsala University
 * Christos Kannas, University of Cyprus
@@ -44,9 +44,9 @@ If you are interested, please add your name below and/or send an email to the [g
 
 ## Other Tool and Tool Shed Content at GCC2013
 
-* "[Introduction to Tool and Data Source Configuration](/Events/GCC2013/TrainingDay#introduction_to_tool_and_data_source_configuration)" [Training Day](/Events/GCC2013/TrainingDay) session
-* "[Advanced Tool and Data Source Configuration"](/Events/GCC2013/TrainingDay#advanced-tool-and-data-source-configuration) [Training Day](/Events/GCC2013/TrainingDay) session
-* "[Galaxy Tool Shed](/Events/GCC2013/TrainingDay#galaxy-tool-shed)" [Training Day](/Events/GCC2013/TrainingDay) session
+* "[Introduction to Tool and Data Source Configuration](/Events/GCC2013/TrainingDay#introduction_to_tool_and_data_source_configuration)" [Training Day](../../../../Events/GCC2013/TrainingDay) session
+* "[Advanced Tool and Data Source Configuration"](/Events/GCC2013/TrainingDay#advanced-tool-and-data-source-configuration) [Training Day](../../../../Events/GCC2013/TrainingDay) session
+* "[Galaxy Tool Shed](/Events/GCC2013/TrainingDay#galaxy-tool-shed)" [Training Day](../../../../Events/GCC2013/TrainingDay) session
 * "[Reproducible research and the 90/10 rule: Improving the ratio of light script to dark script matter in your Galaxy](/Events/GCC2013/Abstracts#reproducible-research-and-the-9010-rule-improving-the-ratio-of-light-script-to-dark-script-matter-in-your-galaxy)" talk
 * "[Enhancing the Galaxy Tool Shed](/Events/GCC2013/Abstracts#enhancing-the-galaxy-tool-shed)" talk
 * "[A Galaxy of learning: Bioinformatics tutorials based on Galaxy](/Events/GCC2013/Abstracts#a-galaxy-of-learning-bioinformatics-tutorials-based-on-galaxy)" talk

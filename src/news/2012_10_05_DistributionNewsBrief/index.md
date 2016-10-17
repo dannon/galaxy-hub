@@ -1,9 +1,9 @@
 ---
 date: 2012-10-06T00:34:01Z
 ---
-<div class='newsItemHeader'>[Oct 5, 2012 Distribution & News Brief](/News/2012_10_05_DistributionNewsBrief)</div>
+<div class='newsItemHeader'>[Oct 5, 2012 Distribution & News Brief](../../News/2012_10_05_DistributionNewsBrief)</div>
 
-**Complete [News Brief](/DevNewsBriefs/2012_10_05)**
+**Complete [News Brief](../../DevNewsBriefs/2012_10_05)**
 <div class='right'><a href='http://toolshed.g2.bx.psu.edu'><img src='/Images/Logos/ToolShed.jpg' alt='tool shed' width="150px" /></a></div>
 **Highlights:**
 * **[BWA](http://bio-bwa.sourceforge.net/)** tool wrappers *[migrated](/DevNewsBriefs/2012_10_05#bwa_migration_to_tool_shed)* to the **[Galaxy Main Tool Shed](http://toolshed.g2.bx.psu.edu/)**. 

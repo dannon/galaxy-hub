@@ -4,9 +4,9 @@ title: August 12, ,,  2013 Galaxy Distribution News Brief
 ---
 <div class='right'></div>
 
-[All News Briefs](/DevNewsBriefs)
+[All News Briefs](..)
 <br />
-[Distribution Summary 2013_08_12](/News/2013_08_12_Galaxy_Distribution)
+[Distribution Summary 2013_08_12](../../News/2013_08_12_Galaxy_Distribution)
 
 <br />
 

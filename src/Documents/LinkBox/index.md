@@ -1,12 +1,12 @@
 <div class='linkbox'>
-**[/Documents](/Documents)**
+**[/Documents](..)**
 ---
-[Presentations](/Documents/Presentations)<br />
-[Posters](/Documents/Posters)<br />
-[Videos](/Documents/Videos)<br />
-[Papers](/Documents/Papers)<br />
+[Presentations](../Presentations)<br />
+[Posters](../Posters)<br />
+[Videos](../Videos)<br />
+[Papers](../Papers)<br />
 [Project](/Documents/Galaxy Project)<br />
 ---
-[/Images](/Images)<br />
-[/Datafiles](/Datafiles)<br />
+[/Images](../../Images)<br />
+[/Datafiles](../../Datafiles)<br />
 </div>

@@ -1,10 +1,10 @@
 <div class='linkbox'>
-**[/Teach](/Teach)**
+**[/Teach](..)**
 ---
-[Resources](/Teach/Resources)<br />
-[Trainers](/Teach/Trainers)<br />
-[Platforms](/Teach/ComputingPlatforms)<br />
-[Best Practices](/Teach/BestPractices)<br />
-[Events](/Events)<br />
-[GTN](/Teach/GTN)<br />
+[Resources](../Resources)<br />
+[Trainers](../Trainers)<br />
+[Platforms](../ComputingPlatforms)<br />
+[Best Practices](../BestPractices)<br />
+[Events](../../Events)<br />
+[GTN](../GTN)<br />
 </div>

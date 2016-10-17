@@ -1,7 +1,7 @@
 ---
 date: 2015-04-02T00:30:08Z
 ---
-<div class='newsItemHeader'>[April! Galactic News!](/News/2015_04GalaxyUpdate)</div>
+<div class='newsItemHeader'>[April! Galactic News!](../../News/2015_04GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2015_04'><img src='/Images/Logos/GalaxyUpdate200.png' alt='Galactic News! April 2015 Edition' width=150 /></a><br /><br />
@@ -10,7 +10,7 @@ date: 2015-04-02T00:30:08Z
 <a href='/GalaxyUpdates/2015_04#gcc2015-6-8-july-norwich-uk'><img src='/Images/Logos/GCC2015LogoWide600.png' alt='Sponsor GCC2015' width="150" /></a><br />
 </div>
 
-[April brings lots of Galaxy related news](/GalaxyUpdates/2015_04), including *events news*:
+[April brings lots of Galaxy related news](../../GalaxyUpdates/2015_04), including *events news*:
 
 * [April GalaxyAdmins Meetup](/GalaxyUpdates/2015_04#april-galaxyadmins-meetup), 
 * [Galaxy Workshop Tokyo 2015](/GalaxyUpdates/2015_04#galaxy-workshop-tokyo-april-28)
@@ -32,7 +32,7 @@ In addition, there is news on:
 * [One new Community Log Board entry](/GalaxyUpdates/2015_04#galaxy-community-hubs)
 * And, [other news](/GalaxyUpdates/2015_04#other-news) as well.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

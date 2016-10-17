@@ -2,9 +2,9 @@ A list of organizations using and contributing to Galaxy. Please [add your organ
 
 ## Member Links
 
-* [Cistrome](/Community/Cistrome)
+* [Cistrome](../Cistrome)
 * [Emory University](/Community/Emory University)
-* [NBIC](/Community/NBIC)
+* [NBIC](../NBIC)
 * [Penn State University](/Community/Penn State)
 
 ## Add Your Organization

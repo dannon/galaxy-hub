@@ -1,11 +1,11 @@
 ---
 date: 2013-03-01T03:07:42Z
 ---
-<div class='newsItemHeader'>[March 2013 Galaxy Update](/News/2013_03GalaxyUpdate)</div>
+<div class='newsItemHeader'>[March 2013 Galaxy Update](../../News/2013_03GalaxyUpdate)</div>
 
 <div class='right'><a href='/GalaxyUpdates/2013_03'><img src='/Images/Logos/GalaxyUpdate200.png' alt='March 2013 Galaxy Update' width=150 /></a></div>
 
-The [March 2013 Galaxy Update is now available](/GalaxyUpdates/2013_03). 
+The [March 2013 Galaxy Update is now available](../../GalaxyUpdates/2013_03). 
 
 **Highlights:**
 * **[GCC2013](/GalaxyUpdates/2013_03#gcc2013) [early registration](/Events/GCC2013/Register), and [oral presentation and poster abstract submission](/Events/GCC2013/Abstracts) are now open**, and we have  [several new sponsors](/GalaxyUpdates/2013_03#sponsorships)!
@@ -18,9 +18,9 @@ The [March 2013 Galaxy Update is now available](/GalaxyUpdates/2013_03).
 * [Tool Shed Contributions](/GalaxyUpdates/2013_03#tool-shed-contributions)
 * [Other News](/GalaxyUpdates/2013_03#other-news)
 
-If you have anything you would like to see in the April *[Galaxy Update](/GalaxyUpdates)*, please let us know.
+If you have anything you would like to see in the April *[Galaxy Update](../../GalaxyUpdates)*, please let us know.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

@@ -1,7 +1,7 @@
 ---
 date: 2015-01-30T00:30:15Z
 ---
-<div class='newsItemHeader'>[Galactic News! Feb. 2015 Edition](/News/2015_02GalaxyUpdate)</div>
+<div class='newsItemHeader'>[Galactic News! Feb. 2015 Edition](../../News/2015_02GalaxyUpdate)</div>
 
 <div class='right'><div class='center'>
 <a href='/GalaxyUpdates/2015_02'><img src='/Images/Logos/GalaxyUpdate200.png' alt='February 2015 Newsletter' width=150 /></a><br /><br />
@@ -30,7 +30,7 @@ and *Community News* too:
 * [Ruđer Bošković Institute joins GTN](/GalaxyUpdates/2015_02#new-gtn-member-ruđer-bošković-institute)
 * And, [other news](/GalaxyUpdates/2015_02#other-news) as well.
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

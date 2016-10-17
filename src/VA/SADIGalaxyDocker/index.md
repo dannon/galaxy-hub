@@ -10,7 +10,7 @@ title: SADI, -, Galaxy Container
 
 
 <div class='dictbox'>
- Appliance:: **[SADI-Galaxy Container](/VA/SADIGalaxyDocker)**
+ Appliance:: **[SADI-Galaxy Container](.)**
  Technology:: **[Docker](/VirtualAppliances#docker-containers)**
  Domains:: **Web services, RDF** 
  Description:: Make SADI services available in a Galaxy platform. 

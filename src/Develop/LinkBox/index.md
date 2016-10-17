@@ -1,10 +1,10 @@
 <div class='linkbox'>
-**[/Develop](/Develop)**
+**[/Develop](..)**
 ---
-[Getting Started](/Develop/GettingStarted)<br />
-[Galaxy API](/Develop/API)<br />
-[Source Code](/Develop/SourceCode)<br />
-[Documentation](/Develop/SourceDoc)<br />
-[Architecture](/Develop/Architecture)<br />
-[Best Practices](/Develop/BestPractices)<br />
+[Getting Started](../GettingStarted)<br />
+[Galaxy API](../API)<br />
+[Source Code](../SourceCode)<br />
+[Documentation](../SourceDoc)<br />
+[Architecture](../Architecture)<br />
+[Best Practices](../BestPractices)<br />
 </div>

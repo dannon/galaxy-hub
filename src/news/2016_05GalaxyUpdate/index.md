@@ -1,7 +1,7 @@
 ---
 date: 2016-04-29T06:30:44Z
 ---
-<div class='newsItemHeader'>[May 2016 Galactic News](/News/2016_05GalaxyUpdate)</div>
+<div class='newsItemHeader'>[May 2016 Galactic News](../../News/2016_05GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2016_05'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='Galaxy News' width=150 /></a><br />
@@ -9,7 +9,7 @@ date: 2016-04-29T06:30:44Z
 <a href='/GalaxyUpdates/2016_05#gcc2016'><img src='/Images/Logos/GCC2016LogoTallBig.png' alt='GCC2016 News' width="150" /></a></div>
 
 
-Some highlights from the **[May Galaxy News](/GalaxyUpdates/2016_05)**
+Some highlights from the **[May Galaxy News](../../GalaxyUpdates/2016_05)**
 
 * **[GCC2016](/GalaxyUpdates/2016_05#gcc2016) Deadlines!** and **[Sponsors](/GalaxyUpdates/2016_05#sponsors)**
   * **[Poster & Demo Abstracts: May 20](/GalaxyUpdates/2016_05#poster--demo-abstracts-may-20)**
@@ -31,7 +31,7 @@ Some highlights from the **[May Galaxy News](/GalaxyUpdates/2016_05)**
 
 Don't miss those deadlines, and [see you in June](https://gcc2016.iu.edu/),
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews

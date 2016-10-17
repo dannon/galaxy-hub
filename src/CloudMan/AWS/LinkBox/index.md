@@ -1,9 +1,9 @@
 <div class='linkbox'>
-**[AWS](/CloudMan/AWS)**
+**[AWS](..)**
 ---
-[Get Started](/CloudMan/AWS/GettingStarted)<br />
-[Capacity Planning](/CloudMan/AWS/CapacityPlanning)<br />
-[AMIs](/CloudMan/AWS/AMIs)
+[Get Started](../GettingStarted)<br />
+[Capacity Planning](../CapacityPlanning)<br />
+[AMIs](../AMIs)
 ---
-&uarr; [/CloudMan](/CloudMan)<br />
+&uarr; [/CloudMan](../..)<br />
 </div>

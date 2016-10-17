@@ -1,14 +1,14 @@
 ---
 date: 2016-06-01T15:21:45Z
 ---
-<div class='newsItemHeader'>[June 2016 Galactic News](/News/2016_06GalaxyUpdate)</div>
+<div class='newsItemHeader'>[June 2016 Galactic News](../../News/2016_06GalaxyUpdate)</div>
 
 <div class='right'>
 <a href='/GalaxyUpdates/2016_06'><img src='/Images/GalaxyLogos/GalaxyNews.png' alt='Galaxy News' width=150 /></a><br />
 <br />
 <a href='/GalaxyUpdates/2016_06#gcc2016'><img src='/Images/Logos/GCC2016LogoTallBig.png' alt='GCC2016 News' width="150" /></a></div>
 
-Some highlights from the **[June Galaxy News](/GalaxyUpdates/2016_06)**
+Some highlights from the **[June Galaxy News](../../GalaxyUpdates/2016_06)**
 
 * **[GCC2016](/GalaxyUpdates/2016_06#gcc2016) News**
   * **[Complete schedule is online](/GalaxyUpdates/2016_06#complete-schedule-online)**
@@ -29,7 +29,7 @@ Some highlights from the **[June Galaxy News](/GalaxyUpdates/2016_06)**
 
 Hope to [see you in Bloomington](https://gcc2016.iu.edu/),
 
-[Dave Clements](/DaveClements) and the [Galaxy Team](/GalaxyTeam)
+[Dave Clements](/DaveClements) and the [Galaxy Team](../../GalaxyTeam)
 
 
 CategoryNews
