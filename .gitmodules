@@ -1,0 +1,3 @@
+[submodule "src/training-material"]
+	path = src/training-material
+	url = https://github.com/bgruening/training-material
