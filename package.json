@@ -1,64 +1,18 @@
 {
   "name": "galaxy-hub",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "Galaxy Community Hub",
-  "main": "build.js",
   "license": "AFL-3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/galaxyproject/galaxy-hub.git"
   },
-  "dependencies": {
-    "@babel/core": "^7.6.2",
-    "@babel/preset-env": "^7.6.2",
-    "@fortawesome/fontawesome-free": "^5.11.2",
-    "axios": "^0.19.0",
-    "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.6",
-    "babel-preset-env": "^1.7.0",
-    "bootstrap": "^4.3.1",
-    "concurrently": "^4.1.2",
-    "css-loader": "^3.2.0",
-    "expose-loader": "^0.7.5",
-    "file-loader": "^4.2.0",
-    "handlebars": "^4.4.0",
-    "highlight.js": "^9.15.10",
-    "jquery": "^3.4.1",
-    "jstransformer-pug": "^0.3.0",
-    "lodash": "^4.17.15",
-    "marked": "0.6.1",
-    "metalsmith": "^2.3.0",
-    "metalsmith-autotoc": "^0.1.5",
-    "metalsmith-broken-link-checker": "^1.0.2",
-    "metalsmith-collections": "^0.9.0",
-    "metalsmith-filepath": "^1.0.1",
-    "metalsmith-headings-identifier": "0.0.11",
-    "metalsmith-layouts": "^2.3.1",
-    "metalsmith-markdown": "0.2",
-    "metalsmith-metadata": "^0.0.4",
-    "metalsmith-serve": "^0.0.7",
-    "metalsmith-timer": "0.0.2",
-    "metalsmith-watch": "^1.0.3",
-    "minimist": "^1.1.1",
-    "moment": "^2.24.0",
-    "node-sass": "^4.12.0",
-    "popper.js": "^1.15.0",
-    "pug": "^2.0.4",
-    "sass-loader": "^8.0.0",
-    "slug": "^1.1.0",
-    "style-loader": "^1.0.0",
-    "webpack": "^4.41.0",
-    "webpack-cli": "^3.3.9"
-  },
   "scripts": {
-    "build": "concurrently \"$npm_execpath run metalsmith\" \"webpack\"",
-    "metalsmith": "node build.js",
-    "serve": "concurrently \"$npm_execpath run webpack\" \"node build.js --serve\"",
-    "check": "node build.js --check",
-    "watch": "concurrently \"$npm_execpath run webpack --watch\" \"node build.js --watch\"",
-    "webpack": "webpack --config webpack.config.js"
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
   },
-  "engines": {
-    "yarn": ">= 1.0.0"
+  "dependencies": {
+    "gridsome": "^0.7.0"
   }
 }
