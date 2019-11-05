@@ -8,19 +8,23 @@ module.exports = {
     siteName: "Galaxy Community Hub",
     plugins: [
         {
-            use: '@gridsome/source-filesystem',
+            use: "@gridsome/source-filesystem",
             options: {
-              path: './src/content/**/*.md',
-              typeName: 'Default',
-              remark: {
-                // remark options
-              }
+                path: "./src/content/**/*.md",
+                typeName: "Default"
             }
-          }
-        ],
-        transformers: {
-          remark: {
-            // global remark options
-          }
+        },
+        {
+            use: "@gridsome/source-filesystem",
+            options: {
+                path: "./src/content/news/**/*.md",
+                typeName: "NewsItem"
+            }
         }
+    ],
+    transformers: {
+        remark: {
+            // global remark options
+        }
+    }
 };
