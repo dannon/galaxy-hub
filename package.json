@@ -27,6 +27,7 @@
     "remark-html": "^13.0.1",
     "remark-parse": "^9.0.0",
     "remark-toc": "^8.0.0",
+    "sass": "^1.38.2",
     "sharp": "^0.28.3",
     "unified": "^10.1.0",
     "unified-args": "^9.0.2",
@@ -34,7 +35,6 @@
     "which": "^2.0.2"
   },
   "devDependencies": {
-    "node-sass": "^5.0.0",
     "sass-loader": "^10.1.1"
   },
   "prettier": {
