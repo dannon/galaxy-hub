@@ -27,7 +27,7 @@ export default {
 <page-query>
 query {
     news: allParentArticle(
-        limit: 5, filter: {category: {eq: "news" }, subsites: {contains: ["eu"]}, draft: {ne: true}}
+        limit: 5, filter: {category: {eq: "news" }, draft: {ne: true}}
     ) {
         totalCount
         edges {
