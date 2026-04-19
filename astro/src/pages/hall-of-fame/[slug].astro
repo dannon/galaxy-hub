@@ -164,7 +164,11 @@ function formatDate(date: Date | string | undefined): string {
             <div class="profile-header-block">
               <a
                 href={community?.record?.url || '#'}
-                class:list={['profile-avatar', 'profile-avatar-sm', { 'pointer-events-none': !community?.record?.url }]}
+                class:list={[
+                  'profile-avatar',
+                  'profile-avatar-sm',
+                  { 'profile-avatar-branded': !avatarUrl, 'pointer-events-none': !community?.record?.url },
+                ]}
                 target={community?.record?.url ? '_blank' : undefined}
                 rel={community?.record?.url ? 'noopener noreferrer' : undefined}
                 aria-label={community?.record?.url ? `Visit ${displayName || slug}` : undefined}
@@ -453,6 +457,19 @@ function formatDate(date: Date | string | undefined): string {
     font-weight: 700;
     color: #2c3143;
     font-size: 1.5rem;
+  }
+
+  /* When there's no avatar image, turn the tile itself into a branded element
+     rather than a white square with gray text -- gradient background with
+     gold initial reads as "this IS the Galaxy identity for this profile". */
+  .profile-avatar-branded {
+    background: linear-gradient(135deg, #25537b 0%, #2c3143 100%);
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .profile-avatar-branded .profile-avatar-fallback {
+    color: #ffd700;
+    font-size: 1.75rem;
   }
 
   .badge {
